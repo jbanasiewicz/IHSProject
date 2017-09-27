@@ -32,13 +32,24 @@ public class BookSearch {
         checkForPrices.setText("Check for book price");
 
         JTable table = new JTable(new DefaultTableModel(0,5));
+        table.setAutoResizeMode(JTable.AUTO_RESIZE_OFF);
+        table.getColumnModel().getColumn(0).setPreferredWidth(300);
+        table.getColumnModel().getColumn(1).setPreferredWidth(100);
+        table.getColumnModel().getColumn(2).setPreferredWidth(80);
+        table.getColumnModel().getColumn(3).setPreferredWidth(90);
+        table.getColumnModel().getColumn(4).setPreferredWidth(90);
 
         checkForPrices.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
                 DefaultTableModel model = (DefaultTableModel) table.getModel();
-                model.addRow(new Object[]{"Title", "Author", "ISBN", "Best price", "Where to buy"});
+                while (model.getRowCount() > 0) {
+                    model.removeRow(model.getRowCount() - 1);
+                }
                 String message = field.getText();
-                searchButtonPressed(message, model);
+                if (!message.equals("")) {
+                    model.addRow(new Object[]{"Title", "Author", "ISBN", "Best price", "Where to buy"});
+                    searchButtonPressed(message, model);
+                }
                 frame.add(table, BorderLayout.SOUTH);
                 frame.setVisible(false);
                 frame.pack();
