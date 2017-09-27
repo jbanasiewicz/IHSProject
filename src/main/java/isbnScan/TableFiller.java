@@ -20,7 +20,7 @@ public class TableFiller {
             title = bookData.title;
             author = bookData.authorsText;
             isbn = bookData.isbn;
-            model.addRow(new Object[]{title, author, isbn});
+            model.addRow(new Object[]{title, author, isbn, " ", " "});
         }
     }
 }

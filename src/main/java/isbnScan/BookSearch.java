@@ -3,9 +3,12 @@ package isbnScan;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
+
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 @SpringBootApplication
 public class BookSearch {
@@ -29,7 +32,17 @@ public class BookSearch {
         checkForPrices.setText("Check for book price");
 
         JTable table = new JTable(new DefaultTableModel());
-        checkForPrices.addActionListener(TableFiller.fillTableWithResults("jakistytul", table));
+
+        checkForPrices.addActionListener(new ActionListener() {
+            public void actionPerformed(ActionEvent e) {
+                searchButtonPressed(table);
+                SwingUtilities.updateComponentTreeUI(frame);
+                frame.invalidate();
+                frame.validate();
+                frame.repaint();
+            }
+        } );
+
 
         frame.add(labelText, BorderLayout.NORTH);
         frame.add(field, BorderLayout.WEST);
@@ -37,5 +50,9 @@ public class BookSearch {
         frame.add(table, BorderLayout.SOUTH);
         frame.pack();
         frame.setVisible(true);
+    }
+    public void searchButtonPressed(JTable table) {
+        TableFiller tableFiller = new TableFiller();
+        tableFiller.fillTableWithResults("harry potter", table);
     }
 }
