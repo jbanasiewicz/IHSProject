@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="085c4cf6-cf0a-4c60-a27b-d853cd1c1900" name="Default" comment="" />
+    <list default="true" id="085c4cf6-cf0a-4c60-a27b-d853cd1c1900" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_simpleframework_simple_xml_2_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_android_spring_android_core_1_0_1_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_android_spring_android_rest_template_1_0_1_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_1_2_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_1_1_3_3.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/isbnScan/Scanner.class" afterPath="$PROJECT_DIR$/target/classes/isbnScan/Scanner.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IHSBookSearch.iml" afterPath="$PROJECT_DIR$/IHSBookSearch.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/isbnScan/Scanner.java" afterPath="$PROJECT_DIR$/src/main/java/isbnScan/Scanner.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +31,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="45" column="21" lean-forward="true" selection-start-line="41" selection-start-column="8" selection-end-line="45" selection-end-column="21" />
+            <state relative-caret-position="237">
+              <caret line="40" column="21" lean-forward="false" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -26,12 +41,13 @@
       <file leaf-file-name="Scanner.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/isbnScan/Scanner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="6" selection-end-column="51" />
+            <state relative-caret-position="575">
+              <caret line="40" column="29" lean-forward="false" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#479#480#0" expanded="true" />
-                <element signature="e#520#521#0" expanded="true" />
+                <element signature="e#682#683#0" expanded="true" />
+                <element signature="e#723#724#0" expanded="true" />
+                <element signature="e#1159#1167#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -155,6 +171,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -176,10 +195,10 @@
         <option value="$PROJECT_DIR$/src/test/java/ScannerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/isbnScan/BookInfo.java" />
         <option value="$PROJECT_DIR$/src/main/java/isbnScan/ISBNdb.java" />
-        <option value="$PROJECT_DIR$/src/main/java/isbnScan/Scanner.java" />
         <option value="$PROJECT_DIR$/src/main/java/isbnScan/BookList.java" />
         <option value="$PROJECT_DIR$/src/main/java/isbnScan/BookData.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/isbnScan/Scanner.java" />
       </list>
     </option>
   </component>
@@ -188,6 +207,9 @@
     <option name="y" value="-20" />
     <option name="width" value="1141" />
     <option name="height" value="990" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -443,21 +465,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ScannerTest_checkISBNResult - 2017.09.26 at 18h 03m 54s.xml">
-      <configuration name="ScannerTest.checkISBNResult" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ScannerTest_checkISBNResult - 2017.09.26 at 18h 05m 35s.xml">
-      <configuration name="ScannerTest.checkISBNResult" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ScannerTest_checkISBNResult - 2017.09.27 at 12h 48m 47s.xml">
-      <configuration name="ScannerTest.checkISBNResult" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ScannerTest_checkISBNResult - 2017.09.27 at 13h 04m 50s.xml">
-      <configuration name="ScannerTest.checkISBNResult" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ScannerTest_checkISBNResult - 2017.09.27 at 13h 05m 57s.xml">
-      <configuration name="ScannerTest.checkISBNResult" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ScannerTest_checkISBNResult - 2017.09.27 at 13h 16m 11s.xml">
       <configuration name="ScannerTest.checkISBNResult" configurationId="JUnit" />
     </history-entry>
@@ -473,6 +480,21 @@
     <history-entry file="ScannerTest_checkISBNResult - 2017.09.27 at 13h 24m 05s.xml">
       <configuration name="ScannerTest.checkISBNResult" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ScannerTest_checkISBNResult - 2017.09.27 at 14h 11m 59s.xml">
+      <configuration name="ScannerTest.checkISBNResult" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScannerTest_checkISBNResult - 2017.09.27 at 14h 14m 28s.xml">
+      <configuration name="ScannerTest.checkISBNResult" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScannerTest_checkISBNResult - 2017.09.27 at 14h 14m 36s.xml">
+      <configuration name="ScannerTest.checkISBNResult" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScannerTest_checkISBNResult - 2017.09.27 at 14h 19m 34s.xml">
+      <configuration name="ScannerTest.checkISBNResult" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScannerTest_checkISBNResult - 2017.09.27 at 14h 26m 31s.xml">
+      <configuration name="ScannerTest.checkISBNResult" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -486,8 +508,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -542,13 +564,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/isbnScan/Scanner.java</url>
-          <line>11</line>
+          <line>14</line>
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/isbnScan/Scanner.java</url>
-          <line>23</line>
+          <line>28</line>
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
@@ -798,20 +820,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="45" column="21" lean-forward="true" selection-start-line="41" selection-start-column="8" selection-end-line="45" selection-end-column="21" />
+        <state relative-caret-position="237">
+          <caret line="40" column="21" lean-forward="false" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/isbnScan/Scanner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="6" selection-end-column="51" />
+        <state relative-caret-position="575">
+          <caret line="40" column="29" lean-forward="false" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#479#480#0" expanded="true" />
-            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#682#683#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#1159#1167#0" expanded="true" />
           </folding>
         </state>
       </provider>
