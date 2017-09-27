@@ -1,8 +1,8 @@
 package isbnScan;
 
-import java.security.Timestamp;
+import java.util.Date;
 
 public class ISBNdb {
-    Timestamp server_time;
+    Date server_time;
     BookList bookList;
 }

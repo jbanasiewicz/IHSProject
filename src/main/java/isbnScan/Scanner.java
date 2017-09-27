@@ -9,6 +9,10 @@ import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestTemplate;
 import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 
+import javax.xml.bind.JAXB;
+import javax.xml.bind.JAXBContext;
+import javax.xml.bind.Unmarshaller;
+import java.io.StringReader;
 import java.util.Arrays;
 
 
@@ -26,22 +30,23 @@ public class Scanner {
     }
 
     public ISBNdb getBookInfo (String bookTitle){
-        bookTitle = "harry potter i czara ognia";
         bookTitle = bookTitle.replaceAll(" ", "+");
         String url = "http://www.isbndb.com/api/books.xml?access_key=4N35Z5BX&index1=title&value1=" + bookTitle;
         HttpHeaders headers = new HttpHeaders();
         headers.setAccept(Arrays.asList(MediaType.APPLICATION_XML));
-        HttpEntity<String> entity = new HttpEntity<String>("parameters", headers);
+        HttpEntity<String> entity = new HttpEntity<>("parameters", headers);
 
-        //ResponseEntity<String> response = restTemplate().exchange(url, HttpMethod.GET, entity, String.class);
-        //String responseBody = response.getBody();*/
+        ResponseEntity<String> response = restTemplate().exchange(url, HttpMethod.GET, entity, String.class);
+        String responseBody = response.getBody();
 
-        RestTemplate restTemplate = new RestTemplate();
+        ISBNdb bookInfo = JAXB.unmarshal(new StringReader(responseBody), ISBNdb.class);
+
+        /*RestTemplate restTemplate = new RestTemplate();
         restTemplate.getMessageConverters().add(new Jaxb2RootElementHttpMessageConverter());
         ResponseEntity<ISBNdb> bookInfo = restTemplate().exchange(url, HttpMethod.GET, entity, ISBNdb.class);
-        ISBNdb bookInfoBody = bookInfo.getBody();
+        ISBNdb bookInfoBody = bookInfo.getBody();*/
         //ISBNdb bookInfo = restTemplate.getForObject(url, ISBNdb.class);
 
-        return bookInfoBody;
+        return bookInfo;
     }
 }
