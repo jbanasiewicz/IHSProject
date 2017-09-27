@@ -10,12 +10,9 @@ public class TableFiller {
     double price;
     String whereToBuy;
 
-    public void fillTableWithResults(String givenTitle, JTable table) {
+    public void fillTableWithResults(String givenTitle, DefaultTableModel model) {
         ISBNdb result = new Scanner().getBookInfo(givenTitle);
 
-
-        DefaultTableModel model = (DefaultTableModel) table.getModel();
-        model.addRow(new Object[]{"Title", "Author", "ISBN", "Best price", "Where to buy"});
         for (BookData bookData : result.getBookList().getBookData()) {
             title = bookData.title;
             author = bookData.authorsText;

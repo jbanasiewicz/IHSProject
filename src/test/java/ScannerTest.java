@@ -13,7 +13,8 @@ public class ScannerTest {
     }
     @Test
     public void checkTableFiller() {
-        JTable table = new JTable(new DefaultTableModel());
-        new TableFiller().fillTableWithResults("harry potter i czara ognia", table);
+        JTable table = new JTable(new DefaultTableModel(11, 5));
+        DefaultTableModel model = (DefaultTableModel) table.getModel();
+        new TableFiller().fillTableWithResults("harry potter i czara ognia", model);
     }
 }

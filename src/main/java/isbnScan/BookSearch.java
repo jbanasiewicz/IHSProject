@@ -31,15 +31,18 @@ public class BookSearch {
         JButton checkForPrices = new JButton();
         checkForPrices.setText("Check for book price");
 
-        JTable table = new JTable(new DefaultTableModel());
+        JTable table = new JTable(new DefaultTableModel(0,5));
 
         checkForPrices.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
-                searchButtonPressed(table);
-                SwingUtilities.updateComponentTreeUI(frame);
-                frame.invalidate();
-                frame.validate();
-                frame.repaint();
+                DefaultTableModel model = (DefaultTableModel) table.getModel();
+                model.addRow(new Object[]{"Title", "Author", "ISBN", "Best price", "Where to buy"});
+                String message = field.getText();
+                searchButtonPressed(message, model);
+                frame.add(table, BorderLayout.SOUTH);
+                frame.setVisible(false);
+                frame.pack();
+                frame.setVisible(true);
             }
         } );
 
@@ -47,12 +50,11 @@ public class BookSearch {
         frame.add(labelText, BorderLayout.NORTH);
         frame.add(field, BorderLayout.WEST);
         frame.add(checkForPrices, BorderLayout.EAST);
-        frame.add(table, BorderLayout.SOUTH);
         frame.pack();
         frame.setVisible(true);
     }
-    public void searchButtonPressed(JTable table) {
+    public void searchButtonPressed(String message, DefaultTableModel model) {
         TableFiller tableFiller = new TableFiller();
-        tableFiller.fillTableWithResults("harry potter", table);
+        tableFiller.fillTableWithResults(message, model);
     }
 }
