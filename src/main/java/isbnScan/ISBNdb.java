@@ -11,4 +11,8 @@ public class ISBNdb {
     Date server_time;
     @XmlElement (name = "BookList")
     BookList bookList;
+
+    public BookList getBookList() {
+        return bookList;
+    }
 }
