@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: ScannerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.39 sec <<< FAILURE! - in ScannerTest
+checkISBNResult(ScannerTest)  Time elapsed: 0.363 sec  <<< ERROR!
+java.lang.NoSuchFieldError: APPLICATION_WILDCARD_XML
+	at org.springframework.http.converter.xml.SimpleXmlHttpMessageConverter.<init>(SimpleXmlHttpMessageConverter.java:70)
+	at org.springframework.http.converter.xml.SimpleXmlHttpMessageConverter.<init>(SimpleXmlHttpMessageConverter.java:61)
+	at isbnScan.Scanner.getBookInfo(Scanner.java:35)
+	at ScannerTest.checkISBNResult(ScannerTest.java:8)
+
