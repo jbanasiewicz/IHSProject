@@ -22,13 +22,10 @@ public class AmazonSearch {
     public double checkPriceOnAmazon (String isbn13) {
         WebDriver driver = new HtmlUnitDriver();
 
-        driver.get("https://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&unfiltered=1&field-keywords=&field-author=&field-title=&field-isbn=" + isbn13 + "&field-publisher=&node=&field-p_n_condition-type=&p_n_feature_browse-bin=&field-age_range=&field-language=&field-dateop=During&field-datemod=&field-dateyear=&sort=relevanceexprank&Adv-Srch-Books-Submit.x=30&Adv-Srch-Books-Submit.y=15");
-        try {
-            WebElement accessTitle = driver.findElement(By.className("s-access-title"));
-            accessTitle.click();
-            WebElement paperBook = driver.findElement(By.id("a-autoid-3-announce"));
-            paperBook.click();
-            /*
+        driver.get("https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=" + isbn13);
+        driver.findElement(By.cssSelector(".a-size-medium.s-inline.s-access-title.a-text-normal")).click();
+
+        /*try {
 
             WebElement currency = driver.findElement(By.className("sx-price-currency"));
             amazonCurrency = currency.getText();
@@ -38,10 +35,19 @@ public class AmazonSearch {
 
             WebElement priceFractional = driver.findElement(By.className("sx-price-fractional"));
             amazonPriceFractional = priceFractional.getText();
-            amazonPrice = Double.parseDouble(amazonPriceWhole + "." + amazonPriceFractional);*/
+            amazonPrice = Double.parseDouble(amazonPriceWhole + "." + amazonPriceFractional);
         } catch (NoSuchElementException a) {
-            return 0.00;
-        }
+            try {
+                WebElement price = driver.findElement(By.cssSelector(".a-size-base.a-color-base"));
+                String amazonPriceWith$ = price.getText();
+                amazonPrice = Double.parseDouble(amazonPriceWith$.replace("$", ""));
+                amazonCurrency = "$";
+
+
+            } catch (NoSuchElementException b) {
+                return 0.00;
+            }
+        }*/
         driver.quit();
 
         return priceConverter(amazonPrice, amazonCurrency);
