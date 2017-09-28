@@ -47,7 +47,7 @@ public class BookSearch {
                 }
                 String message = field.getText();
                 if (!message.equals("")) {
-                    model.addRow(new Object[]{"Title", "Author", "ISBN", "Best price", "Where to buy"});
+                    model.addRow(new Object[]{"Title", "Author", "ISBN13", "Best price", "Where to buy"});
                     searchButtonPressed(message, model);
                 }
                 frame.add(table, BorderLayout.SOUTH);

@@ -1,3 +1,4 @@
+import isbnScan.AmazonSearch;
 import isbnScan.Scanner;
 import isbnScan.TableFiller;
 import org.junit.Test;
@@ -16,5 +17,9 @@ public class ScannerTest {
         JTable table = new JTable(new DefaultTableModel(11, 5));
         DefaultTableModel model = (DefaultTableModel) table.getModel();
         new TableFiller().fillTableWithResults("harry potter i czara ognia", model);
+    }
+    @Test
+    public void checkAmazonResult() {
+        new AmazonSearch().checkPriceOnAmazon("9780762436316");
     }
 }

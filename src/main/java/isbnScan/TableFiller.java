@@ -5,7 +5,7 @@ import javax.swing.table.DefaultTableModel;
 public class TableFiller {
     String title;
     String author;
-    String isbn;
+    String isbn13;
     double price;
     String whereToBuy;
 
@@ -15,8 +15,8 @@ public class TableFiller {
         for (BookData bookData : result.getBookList().getBookData()) {
             title = bookData.title;
             author = bookData.authorsText;
-            isbn = bookData.isbn;
-            model.addRow(new Object[]{title, author, isbn, " ", " "});
+            isbn13 = bookData.isbn13;
+            model.addRow(new Object[]{title, author, isbn13, " ", " "});
         }
     }
 }
