@@ -1,6 +1,10 @@
 package isbnScan;
 
 
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.htmlunit.HtmlUnitDriver;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 
@@ -9,6 +13,7 @@ import javax.swing.table.DefaultTableModel;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.text.DecimalFormat;
 
 @SpringBootApplication
 public class BookSearch {
@@ -68,4 +73,5 @@ public class BookSearch {
         TableFiller tableFiller = new TableFiller();
         tableFiller.fillTableWithResults(message, model);
     }
+
 }
