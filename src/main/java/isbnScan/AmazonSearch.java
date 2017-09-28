@@ -19,7 +19,7 @@ public class AmazonSearch {
         WebDriver driver = new HtmlUnitDriver();
 
         driver.get("https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=" + isbn13);
-        driver.manage().timeouts().implicitlyWait(1, TimeUnit.SECONDS);
+        driver.manage().timeouts().implicitlyWait(2, TimeUnit.SECONDS);
         WebElement title = driver.findElement(By.cssSelector(".a-link-normal.s-access-detail-page.s-color-twister-title-link.a-text-normal"));
         //a-link-normal.s-access-detail-page.s-color-twister-title-link.a-text-normal
         //a-link-normal s-access-detail-page  s-color-twister-title-link a-text-normal
@@ -29,7 +29,9 @@ public class AmazonSearch {
         List<WebElement> buttons = driver.findElements(By.cssSelector(".a-button.a-spacing-mini.a-button-toggle.format"));
         for (int i = 0; i < buttons.size(); i++) {
             if (true) {
-                String button = buttons.get(i).findElement(By.name("element")).findElement(By.name("firstChild_")).findElement(By.name("firstChild_")).findElement(By.name("firstChild_")).findElement(By.name("nextSibling_")).findElement(By.name("firstChild_")).getText();
+                WebElement button = buttons.get(i).findElement(By.xpath(".//*")).findElement(By.xpath(".//*")).findElement(By.xpath(".//*"));
+                WebElement element = button.findElement(By.xpath(".//*"));
+                String nazwa = element.getText();
             }
         }
 

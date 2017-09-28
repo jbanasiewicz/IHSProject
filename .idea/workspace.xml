@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="085c4cf6-cf0a-4c60-a27b-d853cd1c1900" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/isbnScan/AmazonSearch.java" afterPath="$PROJECT_DIR$/src/main/java/isbnScan/AmazonSearch.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/isbnScan/BookSearch.java" afterPath="$PROJECT_DIR$/src/main/java/isbnScan/BookSearch.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/isbnScan/TableFiller.java" afterPath="$PROJECT_DIR$/src/main/java/isbnScan/TableFiller.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -68,31 +66,11 @@
       <file leaf-file-name="AmazonSearch.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/isbnScan/AmazonSearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="31" column="16" lean-forward="false" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="270" />
+            <state relative-caret-position="330">
+              <caret line="40" column="88" lean-forward="true" selection-start-line="40" selection-start-column="88" selection-end-line="40" selection-end-column="88" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReflectiveCallable.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ParentRunner.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="202" column="0" lean-forward="false" selection-start-line="202" selection-start-column="0" selection-end-line="202" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -474,34 +452,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ScannerTest_checkAmazonResult - 2017.09.28 at 19h 49m 57s.xml">
+    <history-entry file="ScannerTest_checkAmazonResult - 2017.09.28 at 20h 38m 34s.xml">
       <configuration name="ScannerTest.checkAmazonResult" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ScannerTest_checkAmazonResult - 2017.09.28 at 19h 51m 07s.xml">
+    <history-entry file="ScannerTest_checkAmazonResult - 2017.09.28 at 20h 42m 05s.xml">
       <configuration name="ScannerTest.checkAmazonResult" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ScannerTest_checkAmazonResult - 2017.09.28 at 19h 51m 44s.xml">
+    <history-entry file="ScannerTest_checkAmazonResult - 2017.09.28 at 20h 45m 31s.xml">
       <configuration name="ScannerTest.checkAmazonResult" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ScannerTest_checkAmazonResult - 2017.09.28 at 19h 52m 34s.xml">
+    <history-entry file="ScannerTest_checkAmazonResult - 2017.09.28 at 20h 45m 56s.xml">
       <configuration name="ScannerTest.checkAmazonResult" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ScannerTest_checkAmazonResult - 2017.09.28 at 19h 53m 26s.xml">
+    <history-entry file="ScannerTest_checkAmazonResult - 2017.09.28 at 20h 46m 23s.xml">
       <configuration name="ScannerTest.checkAmazonResult" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ScannerTest_checkAmazonResult - 2017.09.28 at 19h 53m 32s.xml">
+    <history-entry file="ScannerTest_checkAmazonResult - 2017.09.28 at 20h 48m 55s.xml">
       <configuration name="ScannerTest.checkAmazonResult" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ScannerTest_checkAmazonResult - 2017.09.28 at 19h 59m 29s.xml">
+    <history-entry file="ScannerTest_checkAmazonResult - 2017.09.28 at 20h 49m 07s.xml">
       <configuration name="ScannerTest.checkAmazonResult" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ScannerTest_checkAmazonResult - 2017.09.28 at 20h 00m 14s.xml">
+    <history-entry file="ScannerTest_checkAmazonResult - 2017.09.28 at 20h 49m 19s.xml">
       <configuration name="ScannerTest.checkAmazonResult" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ScannerTest_checkAmazonResult - 2017.09.28 at 20h 00m 52s.xml">
+    <history-entry file="ScannerTest_checkAmazonResult - 2017.09.28 at 20h 50m 27s.xml">
       <configuration name="ScannerTest.checkAmazonResult" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ScannerTest_checkAmazonResult - 2017.09.28 at 20h 01m 27s.xml">
+    <history-entry file="ScannerTest_checkAmazonResult - 2017.09.28 at 20h 53m 18s.xml">
       <configuration name="ScannerTest.checkAmazonResult" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -576,18 +554,6 @@
           <line>28</line>
           <properties />
           <option name="timeStamp" value="36" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/isbnScan/AmazonSearch.java</url>
-          <line>22</line>
-          <properties />
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/isbnScan/AmazonSearch.java</url>
-          <line>20</line>
-          <properties />
-          <option name="timeStamp" value="41" />
         </line-breakpoint>
       </breakpoints>
       <option name="time" value="43" />
@@ -900,14 +866,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -916,10 +874,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/net/sourceforge/htmlunit/htmlunit/2.21/htmlunit-2.21.jar!/com/gargoylesoftware/htmlunit/html/HtmlSpan.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/isbnScan/AmazonSearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="31" column="16" lean-forward="false" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="270" />
+        <state relative-caret-position="330">
+          <caret line="40" column="88" lean-forward="true" selection-start-line="40" selection-start-column="88" selection-end-line="40" selection-end-column="88" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
