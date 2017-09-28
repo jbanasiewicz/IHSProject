@@ -20,6 +20,6 @@ public class ScannerTest {
     }
     @Test
     public void checkAmazonResult() {
-        new AmazonSearch().checkPriceOnAmazon("9780762436316");
+        new AmazonSearch().checkPriceOnAmazon("9781855496507");
     }
 }
