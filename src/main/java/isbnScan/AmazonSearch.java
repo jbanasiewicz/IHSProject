@@ -1,18 +1,13 @@
 package isbnScan;
 
-import com.gargoylesoftware.htmlunit.html.DomText;
-import com.gargoylesoftware.htmlunit.html.HtmlSuperscript;
 import org.openqa.selenium.By;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.htmlunit.HtmlUnitDriver;
-import org.openqa.selenium.htmlunit.HtmlUnitWebElement;
-
-import java.io.FileNotFoundException;
-import java.io.PrintWriter;
 import java.text.DecimalFormat;
 import java.util.List;
+import java.util.concurrent.TimeUnit;
 
 public class AmazonSearch {
     String amazonPriceWhole;
@@ -24,9 +19,22 @@ public class AmazonSearch {
         WebDriver driver = new HtmlUnitDriver();
 
         driver.get("https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=" + isbn13);
-        //driver.findElement(By.cssSelector(".a-size-medium.s-inline.s-access-title.a-text-normal")).click();
+        driver.manage().timeouts().implicitlyWait(1, TimeUnit.SECONDS);
+        WebElement title = driver.findElement(By.cssSelector(".a-link-normal.s-access-detail-page.s-color-twister-title-link.a-text-normal"));
+        //a-link-normal.s-access-detail-page.s-color-twister-title-link.a-text-normal
+        //a-link-normal s-access-detail-page  s-color-twister-title-link a-text-normal
+        //a-link-normal s-access-detail-page  s-color-twister-title-link a-text-normal
+        String link = title.getAttribute("href");
+        driver.get(link);
+        List<WebElement> buttons = driver.findElements(By.cssSelector(".a-button.a-spacing-mini.a-button-toggle.format"));
+        for (int i = 0; i < buttons.size(); i++) {
+            if (true) {
+                String button = buttons.get(i).findElement(By.name("element")).findElement(By.name("firstChild_")).findElement(By.name("firstChild_")).findElement(By.name("firstChild_")).findElement(By.name("nextSibling_")).findElement(By.name("firstChild_")).getText();
+            }
+        }
 
-        try {
+
+        /*try {
 
             WebElement currency = driver.findElement(By.className("sx-price-currency"));
             amazonCurrency = currency.getText();
@@ -61,7 +69,7 @@ public class AmazonSearch {
             } catch (NoSuchElementException b) {
                 return 0.00;
             }
-        }
+        }*/
         driver.quit();
 
         return priceConverter(amazonPrice, amazonCurrency);
