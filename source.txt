@@ -25,18 +25,18 @@ var ue_csm = window,
 pec:0,ts:0,erl:[],ter:[],mxe:50,startTimer:function(){a.ts++;setInterval(function(){d.ue&&a.pec<a.ec&&d.uex("at");a.pec=a.ec},1E4)}};l.skipTrace=1;h.skipTrace=1;h.isStub=1;d.ueLogError=h;d.ue_err=a;e.onerror=l})(ue_csm,window);
 
 
-var ue_id = 'X8BCXF4R6467AW893R3S',
-    ue_url = '/mn/search/uedata/137-5010733-1602114',
+var ue_id = 'R38CX3JFRN5FQMGSX548',
+    ue_url = '/mn/search/uedata/147-5490763-7326650',
     ue_navtiming = 1,
     ue_mid = 'ATVPDKIKX0DER',
-    ue_sid = '137-5010733-1602114',
+    ue_sid = '147-5490763-7326650',
     ue_sn = 'www.amazon.com',
     ue_furl = 'fls-na.amazon.com',
     ue_surl = '//unagi-na.amazon.com/1/events/com.amazon.csm.nexusclient.prod',
     ue_fcsn = 1,
     ue_urt = 3,
     ue_rpl_ns = 'cel-rpl',
-    ue_fpf = '//fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:137-5010733-1602114:X8BCXF4R6467AW893R3S$uedata=s:',
+    ue_fpf = '//fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:147-5490763-7326650:R38CX3JFRN5FQMGSX548$uedata=s:',
     ue_cel_hb = 0,
     ue_rsc = 0,
 
@@ -68,7 +68,7 @@ var ue_hoe = +new Date();
 
 //]]>
     </script>
-    <!-- 96ek0zdrkybu6thqs4i51do2t63vbabtll5ksx2h298xeov8 -->    <style>
+    <!-- iyzoe16twd -->    <style>
       
 [class*=scx-line-clamp-]{overflow:hidden}.scx-offscreen-truncate{position:relative;left:-1000000px}.scx-line-clamp-1{max-height:16.75px}.scx-truncate-medium.scx-line-clamp-1{max-height:20.34px}.scx-truncate-small.scx-line-clamp-1{max-height:13px}.scx-line-clamp-2{max-height:35.5px}.scx-truncate-medium.scx-line-clamp-2{max-height:41.67px}.scx-truncate-small.scx-line-clamp-2{max-height:28px}.scx-line-clamp-3{max-height:54.25px}.scx-truncate-medium.scx-line-clamp-3{max-height:63.01px}.scx-truncate-small.scx-line-clamp-3{max-height:43px}.scx-line-clamp-4{max-height:73px}.scx-truncate-medium.scx-line-clamp-4{max-height:84.34px}.scx-truncate-small.scx-line-clamp-4{max-height:58px}.scx-line-clamp-5{max-height:91.75px}.scx-truncate-medium.scx-line-clamp-5{max-height:105.68px}.scx-truncate-small.scx-line-clamp-5{max-height:73px}.scx-line-clamp-6{max-height:110.5px}.scx-truncate-medium.scx-line-clamp-6{max-height:127.01px}.scx-truncate-small.scx-line-clamp-6{max-height:88px}.sx-line-clamp-1{overflow:hidden;white-space:nowrap;text-overflow:ellipsis}.sx-line-clamp-2{overflow:hidden;max-height:37.5px}.scx-truncate-medium.sx-line-clamp-2{max-height:42.67px}.sx-line-clamp-3{overflow:hidden;max-height:56.25px}.scx-truncate-medium.sx-line-clamp-3{max-height:64.01px}.sx-line-clamp-4{overflow:hidden;max-height:75px}.scx-truncate-medium.sx-line-clamp-4{max-height:85.34px}.sx-line-clamp-5{overflow:hidden;max-height:93.75px}.scx-truncate-medium.sx-line-clamp-5{max-height:106.68px}@supports (-webkit-line-clamp:2){.sx-line-clamp-2,.sx-line-clamp-3,.sx-line-clamp-4,.sx-line-clamp-5,.sx-line-clamp-base-webkit{display:-webkit-box;-webkit-box-orient:vertical;max-height:none}.sx-line-clamp-2{-webkit-line-clamp:2}.s-featured-asin-carousel .sx-line-clamp-2{max-height:37.5px}.sx-line-clamp-3{-webkit-line-clamp:3}.s-featured-asin-carousel .sx-line-clamp-3{max-height:56.25px}.sx-line-clamp-4{-webkit-line-clamp:4}.s-featured-asin-carousel .sx-line-clamp-4{max-height:75px}.sx-line-clamp-5{-webkit-line-clamp:5}.s-featured-asin-carousel .sx-line-clamp-5{max-height:93.75px}}
 
@@ -160,20 +160,20 @@ var search_t0 = window.ue_t0 || + new Date();
     <style type="text/css">
       
 .s-icon, .currencyINR, .srSprite {
-    background-image: url(https://images-na.ssl-images-amazon.com/images/G/01/nav2/images/gui/searchSprite._CB280429789_.png);
+    background-image: url();
     background-repeat: no-repeat;
 }
 
 #leftNav div.buttonsprite div {
-    background-image: url(https://images-na.ssl-images-amazon.com/images/G/01/nav2/images/gui/searchSprite._CB280429789_.png);
+    background-image: url();
 }
  
 #leftNav li.subgroup a span.expand {
-    background: url(https://images-na.ssl-images-amazon.com/images/G/01/nav2/images/gui/searchSprite._CB280429789_.png) no-repeat scroll -143px -821px;
+    background: url() no-repeat scroll -143px -821px;
 }
  
 #leftNav li.subgroup a span.collapse {
-    background: url(https://images-na.ssl-images-amazon.com/images/G/01/nav2/images/gui/searchSprite._CB280429789_.png) no-repeat scroll -132px -821px;
+    background: url() no-repeat scroll -132px -821px;
 }
 
 .s-icon-badging-sticker-sash {
@@ -197,7 +197,7 @@ var search_t0 = window.ue_t0 || + new Date();
 }
 
 .s-icon-uk-ags {
-  background-image: url(https://images-na.ssl-images-amazon.com/images/G/01/global-store/badge._CB277812035_.png);
+  background-image: url();
   background-repeat: no-repeat;
   display: inline-block;
   height: 19px;
@@ -205,31 +205,31 @@ var search_t0 = window.ue_t0 || + new Date();
 }
 
 .s-icon-holiday-toy-list {
-  background-image: url(https://images-na.ssl-images-amazon.com/images/G/01/nav2/images/gui/badging._CB324508524_.png);
+  background-image: url();
 }
 
 .s-badges-background-tl {
-  background-image: url(https://images-na.ssl-images-amazon.com/images/G/01/nav2/images/sticker/sx-badges-pc._CB293729828_.png);
+  background-image: url();
 }
 
 .desktop-sx-top-slot_slds-amazon-fashion-fed-stripe-sprite,
 .s-softlines-sprite {
-  background-image: url(https://images-na.ssl-images-amazon.com/images/G/01/nav2/images/gui/amazon-fashion-sprite-2._CB301501252_.png);
+  background-image: url();
 }
 
 .desktop-sx-top-slot_slds-fed-stripe-sprite,
 .s-federated-stripe-sprite {
-  background-image: url(https://images-na.ssl-images-amazon.com/images/G/01/nav2/images/gui/top-brands-sprite-2._CB270046528_.png);
+  background-image: url();
 }
 
 
 .s-prime-music-badge {
-  background-image: url(https://images-na.ssl-images-amazon.com/images/G/01/nav2/images/prime-music-badge-1x._CB315907983_.png);
+  background-image: url();
 }
 
 @media{ 
   .s-prime-music-badge {
-    background-image: url(https://images-na.ssl-images-amazon.com/images/G/01/nav2/images/prime-music-badge-2x._CB315907983_.png);
+    background-image: url();
   }
 }
 
@@ -311,7 +311,7 @@ if(window.ue&&uet) { uet('bb'); }
 {"AUI_107069":null,"AUI_51744":null,"AUI_57326":null,"AUI_72554":null,"AUI_ACCESSIBILITY_49860":null,"AUI_ATTR_VALIDATIONS_1_51371":null,"AUI_BOLT_62845":null,"AUI_UX_102912":null,"AUI_UX_59374":null,"AUI_UX_60000":null,"AUI_UX_92006":"C","AUI_UX_98513":null,"DEX_92889":null}
 //]]>
       </script>
-      <img height="1" width="1" style="display:none;visibility:hidden;" src="//fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:137-5010733-1602114:X8BCXF4R6467AW893R3S$uedata=s:%2Fmn%2Fsearch%2Fuedata%2F137-5010733-1602114%3Fstaticb%26id%3DX8BCXF4R6467AW893R3S:0" alt=""/>
+      <img height="1" width="1" style="display:none;visibility:hidden;" src="//fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:147-5490763-7326650:R38CX3JFRN5FQMGSX548$uedata=s:%2Fmn%2Fsearch%2Fuedata%2F147-5490763-7326650%3Fstaticb%26id%3DR38CX3JFRN5FQMGSX548:0" alt=""/>
       <script type="text/javascript">
 //<![CDATA[
 
@@ -467,7 +467,7 @@ try {
 
 //]]>
       </script>
-      <!-- navp-8W68E35AZvDms+i4oCTURkTO7gzei3+tgjWJKZ7W1rr83TmBSXYRYT6FWwWSs3jO rid-X8BCXF4R6467AW893R3S (Thu Sep 28 03:38:26 2017) -->      <noscript>
+      <!-- navp-OyPdG8jSFN5NEkibMAt+zroHSMWWl1mGEMkjDK4qQaG1cNCb6fNAYoHUYL+Gvpmkig/euQorYTM= rid-R38CX3JFRN5FQMGSX548 (Thu Sep 28 04:06:41 2017) -->      <noscript>
         <style type="text/css">
           <!--
   #navbar #nav-shop .nav-a:hover {
@@ -511,7 +511,7 @@ window.navmet.tmp=+new Date();
 //]]>
       </script>
       <div id="nav-upnav" aria-hidden="true" style="background-image: url(https://images-na.ssl-images-amazon.com/images/G/01/airstream/upnav/C/C_latest_1x._CB515495617_.jpg); background-color: #F6F6F6; text-align: left; background-position: top left; height: 55px; background-repeat: no-repeat; background-size: 1920px; min-width: 1000px;">
-        <a href="/stream" class="nav-a">
+        <a href="/stream/ref=nav_upnav_LargeImage_C_Search" class="nav-a">
           <span class="nav-spanAltText">
             Interesting Finds Updated Daily
           </span>
@@ -537,7 +537,7 @@ window.navmet.tmp=+new Date();
 //]]>
               </script>
               <div id="nav-logo">
-                <a href="/ref=nav_logo/137-5010733-1602114" class="nav-logo-link" tabindex="6">
+                <a href="/ref=nav_logo/147-5490763-7326650" class="nav-logo-link" tabindex="6">
                   <span class="nav-logo-base nav-sprite">
                     Amazon
                   </span>
@@ -546,7 +546,7 @@ window.navmet.tmp=+new Date();
                   <span class="nav-logo-locale nav-sprite">
                   </span>
                 </a>
-                <a href="/gp/prime/ref=nav_logo_prime_join/137-5010733-1602114" aria-label="" tabindex="7" class="nav-logo-tagline nav-sprite nav-prime-try">
+                <a href="/gp/prime/ref=nav_logo_prime_join/147-5490763-7326650" aria-label="" tabindex="7" class="nav-logo-tagline nav-sprite nav-prime-try">
                   
     Try Prime
   
@@ -566,7 +566,7 @@ window.navmet.tmp=+new Date();
               </script>
               <div id="nav-swmslot">
                 <div id="navSwmHoliday" style="background-image: url(https://images-na.ssl-images-amazon.com/images/G/01/kindle/merch/2017/919357422668451/VX-1020-ML_EP_SWM-400x39-1X._CB515482178_.jpg); width: 400px; height: 39px; overflow: hidden;position: relative;">
-                  <a href="http://www.amazon.com/dp/B075RWFCHB/ref=nav_swm_ods_swm_rr_ml/137-5010733-1602114?pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=nav-sitewide-msg&amp;pf_rd_r=X8BCXF4R6467AW893R3S&amp;pf_rd_r=X8BCXF4R6467AW893R3S&amp;pf_rd_t=4201&amp;pf_rd_p=16c5b62c-7b4c-421b-a2a8-be38c827f144&amp;pf_rd_p=16c5b62c-7b4c-421b-a2a8-be38c827f144&amp;pf_rd_i=navbar-4201" class="nav-imageHref" alt="Introducing Echo Plus $149.99">
+                  <a href="http://www.amazon.com/dp/B075RWFCHB/ref=nav_swm_ods_swm_rr_ml?pf_rd_p=16c5b62c-7b4c-421b-a2a8-be38c827f144&amp;pf_rd_s=nav-sitewide-msg&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=R38CX3JFRN5FQMGSX548&amp;pf_rd_r=R38CX3JFRN5FQMGSX548&amp;pf_rd_p=16c5b62c-7b4c-421b-a2a8-be38c827f144" class="nav-imageHref" alt="Introducing Echo Plus $149.99">
                   </a>
                 </div>
               </div>
@@ -585,7 +585,7 @@ window.navmet.tmp=+new Date();
               <div id="nav-search">
                 <div id="nav-bar-left">
                 </div>
-                <form accept-charset="utf-8" action="/s/ref=nb_sb_noss/137-5010733-1602114" class="nav-searchbar" method="GET" name="site-search" role="search">
+                <form accept-charset="utf-8" action="/s/ref=nb_sb_noss/147-5490763-7326650" class="nav-searchbar" method="GET" name="site-search" role="search">
                   <div class="nav-left">
                     <div class="nav-search-scope nav-sprite">
                       <div class="nav-search-facade" data-value="search-alias=aps">
@@ -787,7 +787,7 @@ window.navmet.push({key:'SearchBar',end:+new Date(),begin:window.navmet.tmp});
           <div id="nav-main" class="nav-sprite">
             <div class="nav-left">
               <div id="nav-shop">
-                <a href="/gp/site-directory/ref=nav_shopall_btn/137-5010733-1602114" class="nav-a nav-a-2 nav-single-row-link" id="nav-link-shopall" tabindex="36">
+                <a href="/gp/site-directory/ref=nav_shopall_btn/147-5490763-7326650" class="nav-a nav-a-2 nav-single-row-link" id="nav-link-shopall" tabindex="36">
                   <span class="nav-line-1">
                   </span>
                   <span class="nav-line-2">
@@ -805,7 +805,7 @@ window.navmet.tmp=+new Date();
 //]]>
               </script>
               <div id="nav-tools">
-                <a href="/gp/customer-preferences/select-language/ref=topnav_lang/137-5010733-1602114?ie=UTF8&amp;preferencesReturnUrl=%2F" id="icp-nav-flyout" class="nav-a nav-a-2 icp-link-style-2">
+                <a href="/gp/customer-preferences/select-language/ref=topnav_lang/147-5490763-7326650?ie=UTF8&amp;preferencesReturnUrl=%2F" id="icp-nav-flyout" class="nav-a nav-a-2 icp-link-style-2">
                   <span class="icp-nav-link-inner">
                     <span class="nav-line-1">
                       <span class="icp-nav-globe-img-2">
@@ -824,7 +824,7 @@ window.navmet.tmp=+new Date();
                   <span class="icp-nav-link-border">
                   </span>
                 </a>
-                <a href="/gp/navigation/redirector.html/ref=sign-in-redirect/137-5010733-1602114?ie=UTF8&amp;associationHandle=usflex&amp;currentPageURL=https%3A%2F%2Fwww.amazon.com%2Fmn%2Fsearch%2Fref%3Dsr_adv_b%3F_encoding%3DUTF8%26ref_%3Dnav_ya_signin&amp;pageType=Search&amp;switchAccount=&amp;yshURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_ya_signin" class="nav-a nav-a-2" data-nav-ref="nav_ya_signin" data-nav-role="signin" id="nav-link-accountList" tabindex="61">
+                <a href="/gp/navigation/redirector.html/ref=sign-in-redirect/147-5490763-7326650?ie=UTF8&amp;associationHandle=usflex&amp;currentPageURL=https%3A%2F%2Fwww.amazon.com%2Fmn%2Fsearch%2Fref%3Dsr_adv_b%3F_encoding%3DUTF8%26ref_%3Dnav_ya_signin&amp;pageType=Search&amp;switchAccount=&amp;yshURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_ya_signin" class="nav-a nav-a-2" data-nav-ref="nav_ya_signin" data-nav-role="signin" id="nav-link-accountList" tabindex="61">
                   <span class="nav-line-1">
                     Hello. Sign in
                   </span>
@@ -840,14 +840,14 @@ window.navmet.tmp=+new Date();
                     Account &amp; Lists
                   </span>
                 </a>
-                <a href="/gp/css/order-history/ref=nav_nav_orders_first/137-5010733-1602114" class="nav-a nav-a-2 nav-single-row-link" id="nav-orders" tabindex="62">
+                <a href="/gp/css/order-history/ref=nav_nav_orders_first/147-5490763-7326650" class="nav-a nav-a-2 nav-single-row-link" id="nav-orders" tabindex="62">
                   <span class="nav-line-1">
                   </span>
                   <span class="nav-line-2">
                     Orders
                   </span>
                 </a>
-                <a href="/gp/product/B00DBYBNEE/ref=nav_prime_try_btn/137-5010733-1602114" class="nav-a nav-a-2 nav-single-row-link" id="nav-link-prime" tabindex="63">
+                <a href="/gp/product/B00DBYBNEE/ref=nav_prime_try_btn/147-5490763-7326650" class="nav-a nav-a-2 nav-single-row-link" id="nav-link-prime" tabindex="63">
                   <span class="nav-line-1">
                   </span>
                   <span class="nav-line-2">
@@ -856,7 +856,7 @@ window.navmet.tmp=+new Date();
                     </span>
                   </span>
                 </a>
-                <a href="/gp/cart/view.html/ref=nav_cart/137-5010733-1602114" aria-label="0 items in cart" class="nav-a nav-a-2" id="nav-cart" tabindex="64">
+                <a href="/gp/cart/view.html/ref=nav_cart/147-5490763-7326650" aria-label="0 items in cart" class="nav-a nav-a-2" id="nav-cart" tabindex="64">
                   <span aria-hidden="true" class="nav-line-1">
                   </span>
                   <span aria-hidden="true" class="nav-line-2">
@@ -885,22 +885,22 @@ window.navmet.push({key:'Tools',end:+new Date(),begin:window.navmet.tmp});
 window.navmet.tmp=+new Date();
 //]]>
                   </script>
-                  <a href="/gp/yourstore/home/ref=nav_cs_ys/137-5010733-1602114" data-nav-tabindex="48" class="nav-a nav_a" id="nav-your-amazon">
+                  <a href="/gp/yourstore/home/ref=nav_cs_ys/147-5490763-7326650" data-nav-tabindex="48" class="nav-a nav_a" id="nav-your-amazon">
                     Your Amazon.com
                   </a>
-                  <a href="/gp/goldbox/ref=nav_cs_gb/137-5010733-1602114" class="nav-a" tabindex="49">
+                  <a href="/gp/goldbox/ref=nav_cs_gb/147-5490763-7326650" class="nav-a" tabindex="49">
                     Today's Deals
                   </a>
-                  <a href="/b/ref=nav_cs_gc_registry/137-5010733-1602114?ie=UTF8&amp;node=14069511011" class="nav-a" tabindex="50">
+                  <a href="/b/ref=nav_cs_gc_registry/147-5490763-7326650?ie=UTF8&amp;node=14069511011" class="nav-a" tabindex="50">
                     Gift Cards &amp; Registry
                   </a>
-                  <a href="/b/ref=nav_cs_sell/137-5010733-1602114?_encoding=UTF8&amp;ld=AZUSSOA-sell&amp;node=12766669011" class="nav-a" tabindex="51">
+                  <a href="/b/ref=nav_cs_sell/147-5490763-7326650?_encoding=UTF8&amp;ld=AZUSSOA-sell&amp;node=12766669011" class="nav-a" tabindex="51">
                     Sell
                   </a>
-                  <a href="/gp/help/customer/display.html/ref=nav_cs_help/137-5010733-1602114?ie=UTF8&amp;nodeId=508510" class="nav-a" tabindex="52">
+                  <a href="/gp/help/customer/display.html/ref=nav_cs_help/147-5490763-7326650?ie=UTF8&amp;nodeId=508510" class="nav-a" tabindex="52">
                     Help
                   </a>
-                  <a href="/gp/help/customer/accessibility/137-5010733-1602114" aria-label="Click to call our Disability Customer Support line, or reach us directly at 1-888-283-1678" class="nav-hidden-aria" tabindex="53">
+                  <a href="/gp/help/customer/accessibility/147-5490763-7326650" aria-label="Click to call our Disability Customer Support line, or reach us directly at 1-888-283-1678" class="nav-hidden-aria" tabindex="53">
                     Disability Customer Support 
                   </a>
                   <script type="text/javascript">
@@ -920,62 +920,62 @@ window.navmet.tmp=+new Date();
 //]]>
           </script>
           <div id="nav-subnav" class="" data-category="books" data-digest="KPc6jCBy78NgBep2bEd6LCV3ARk">
-            <a href="/books-used-books-textbooks/b/ref=topnav_storetab_b/137-5010733-1602114?ie=UTF8&amp;node=283155" class="nav-a nav-b" data-nav-link-bold="1" data-nav-link-bottom-style="2px solid #ff9900" data-nav-link-color="#e47911" data-nav-link-highlight="1">
+            <a href="/books-used-books-textbooks/b/ref=topnav_storetab_b/147-5490763-7326650?ie=UTF8&amp;node=283155" class="nav-a nav-b" data-nav-link-bold="1" data-nav-link-bottom-style="2px solid #ff9900" data-nav-link-color="#e47911" data-nav-link-highlight="1">
               <span class="nav-a-content">
                 Books
               </span>
             </a>
-            <a href="/Advanced-Search-Books/b/ref=sv_b_0/137-5010733-1602114?ie=UTF8&amp;node=241582011" class="nav-a" data-nav-link-bold="1" data-nav-link-bottom-style="2px solid #ff9900" data-nav-link-color="#e47911" data-nav-link-highlight="1">
+            <a href="/Advanced-Search-Books/b/ref=sv_b_0/147-5490763-7326650?ie=UTF8&amp;node=241582011" class="nav-a" data-nav-link-bold="1" data-nav-link-bottom-style="2px solid #ff9900" data-nav-link-color="#e47911" data-nav-link-highlight="1">
               <span class="nav-a-content">
                 Advanced Search
               </span>
             </a>
-            <a href="/gp/new-releases/books/ref=sv_b_1/137-5010733-1602114" class="nav-a" data-nav-link-bold="1" data-nav-link-bottom-style="2px solid #ff9900" data-nav-link-color="#e47911" data-nav-link-highlight="1">
+            <a href="/gp/new-releases/books/ref=sv_b_1/147-5490763-7326650" class="nav-a" data-nav-link-bold="1" data-nav-link-bottom-style="2px solid #ff9900" data-nav-link-color="#e47911" data-nav-link-highlight="1">
               <span class="nav-a-content">
                 New Releases
               </span>
             </a>
-            <a href="/charts/ref=sv_b_2/137-5010733-1602114" class="nav-a" data-nav-link-bold="1" data-nav-link-bottom-style="2px solid #ff9900" data-nav-link-color="#e47911" data-nav-link-highlight="1">
+            <a href="/charts/ref=sv_b_2/147-5490763-7326650" class="nav-a" data-nav-link-bold="1" data-nav-link-bottom-style="2px solid #ff9900" data-nav-link-color="#e47911" data-nav-link-highlight="1">
               <span class="nav-a-content">
                 NEW! Amazon Charts
               </span>
             </a>
-            <a href="/b/ref=sv_b_3/137-5010733-1602114?ie=UTF8&amp;node=16857165011" class="nav-a" data-nav-link-bold="1" data-nav-link-bottom-style="2px solid #ff9900" data-nav-link-color="#e47911" data-nav-link-highlight="1">
+            <a href="/b/ref=sv_b_3/147-5490763-7326650?ie=UTF8&amp;node=16857165011" class="nav-a" data-nav-link-bold="1" data-nav-link-bottom-style="2px solid #ff9900" data-nav-link-color="#e47911" data-nav-link-highlight="1">
               <span class="nav-a-content">
                 Best Sellers &amp; More
               </span>
             </a>
-            <a href="/Books/b/ref=sv_b_4/137-5010733-1602114?ie=UTF8&amp;node=549028" class="nav-a" data-nav-link-bold="1" data-nav-link-bottom-style="2px solid #ff9900" data-nav-link-color="#e47911" data-nav-link-highlight="1">
+            <a href="/Books/b/ref=sv_b_4/147-5490763-7326650?ie=UTF8&amp;node=549028" class="nav-a" data-nav-link-bold="1" data-nav-link-bottom-style="2px solid #ff9900" data-nav-link-color="#e47911" data-nav-link-highlight="1">
               <span class="nav-a-content">
                 The New York Times® Best Sellers
               </span>
             </a>
-            <a href="/Childrens-Books/b/ref=sv_b_5/137-5010733-1602114?ie=UTF8&amp;node=4" class="nav-a" data-nav-link-bold="1" data-nav-link-bottom-style="2px solid #ff9900" data-nav-link-color="#e47911" data-nav-link-highlight="1">
+            <a href="/Childrens-Books/b/ref=sv_b_5/147-5490763-7326650?ie=UTF8&amp;node=4" class="nav-a" data-nav-link-bold="1" data-nav-link-bottom-style="2px solid #ff9900" data-nav-link-color="#e47911" data-nav-link-highlight="1">
               <span class="nav-a-content">
                 Children's Books
               </span>
             </a>
-            <a href="/New-Used-Textbooks-Books/b/ref=sv_b_6/137-5010733-1602114?ie=UTF8&amp;node=465600" class="nav-a" data-nav-link-bold="1" data-nav-link-bottom-style="2px solid #ff9900" data-nav-link-color="#e47911" data-nav-link-highlight="1">
+            <a href="/New-Used-Textbooks-Books/b/ref=sv_b_6/147-5490763-7326650?ie=UTF8&amp;node=465600" class="nav-a" data-nav-link-bold="1" data-nav-link-bottom-style="2px solid #ff9900" data-nav-link-color="#e47911" data-nav-link-highlight="1">
               <span class="nav-a-content">
                 Textbooks
               </span>
             </a>
-            <a href="/Rent-Textbooks/b/ref=sv_b_7/137-5010733-1602114?ie=UTF8&amp;node=5657188011" class="nav-a" data-nav-link-bold="1" data-nav-link-bottom-style="2px solid #ff9900" data-nav-link-color="#e47911" data-nav-link-highlight="1">
+            <a href="/Rent-Textbooks/b/ref=sv_b_7/147-5490763-7326650?ie=UTF8&amp;node=5657188011" class="nav-a" data-nav-link-bold="1" data-nav-link-bottom-style="2px solid #ff9900" data-nav-link-color="#e47911" data-nav-link-highlight="1">
               <span class="nav-a-content">
                 Textbook Rentals
               </span>
             </a>
-            <a href="/Sell-Books/b/ref=sv_b_8/137-5010733-1602114?ie=UTF8&amp;node=2205237011" class="nav-a" data-nav-link-bold="1" data-nav-link-bottom-style="2px solid #ff9900" data-nav-link-color="#e47911" data-nav-link-highlight="1">
+            <a href="/Sell-Books/b/ref=sv_b_8/147-5490763-7326650?ie=UTF8&amp;node=2205237011" class="nav-a" data-nav-link-bold="1" data-nav-link-bottom-style="2px solid #ff9900" data-nav-link-color="#e47911" data-nav-link-highlight="1">
               <span class="nav-a-content">
                 Sell Us Your Books
               </span>
             </a>
-            <a href="/Best-Books-of-the-Month/b/ref=sv_b_9/137-5010733-1602114?ie=UTF8&amp;node=390919011" class="nav-a" data-nav-link-bold="1" data-nav-link-bottom-style="2px solid #ff9900" data-nav-link-color="#e47911" data-nav-link-highlight="1">
+            <a href="/Best-Books-of-the-Month/b/ref=sv_b_9/147-5490763-7326650?ie=UTF8&amp;node=390919011" class="nav-a" data-nav-link-bold="1" data-nav-link-bottom-style="2px solid #ff9900" data-nav-link-color="#e47911" data-nav-link-highlight="1">
               <span class="nav-a-content">
                 Best Books of the Month
               </span>
             </a>
-            <a href="/Kindle-eBooks/b/ref=sv_b_10/137-5010733-1602114?ie=UTF8&amp;node=154606011" class="nav-a" data-nav-link-bold="1" data-nav-link-bottom-style="2px solid #ff9900" data-nav-link-color="#e47911" data-nav-link-highlight="1">
+            <a href="/Kindle-eBooks/b/ref=sv_b_10/147-5490763-7326650?ie=UTF8&amp;node=154606011" class="nav-a" data-nav-link-bold="1" data-nav-link-bottom-style="2px solid #ff9900" data-nav-link-color="#e47911" data-nav-link-highlight="1">
               <span class="nav-a-content">
                 Kindle eBooks
               </span>
@@ -1013,65 +1013,63 @@ window.navmet.tmp=+new Date();
 //]]>
       </script>
       <!-- nav promo cached -->      <map name="nav_imgmap_nav-sa-android" id="nav_imgmap_nav-sa-android">
-        <area shape="rect" coords="10,10,519,522" href="/dp/B01MYO93ZL/ref=nav_shopall_nav_sap_mas_UGAPP_WK3?pf_rd_p=57e92089-8652-4b13-a719-b87ef6f499bd&amp;pf_rd_s=nav-sa-android&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=DK75F3NZD7P579ZTM8J9" alt="Bubble Witch Saga 3"/>
+        <area shape="rect" coords="10,10,519,522" href="/dp/B06Y1G9SS8/ref=nav_shopall_nav_sap_mas_UGAPP_WK3?pf_rd_p=a36f77f2-ad70-4509-8f0e-dbece870f779&amp;pf_rd_s=nav-sa-android&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=5XH8GB0H6GNH5GRKHSE6" alt="Hill Climb Racing 2"/>
       </map>
       <map name="nav_imgmap_nav-sa-automotive-industrial" id="nav_imgmap_nav-sa-automotive-industrial">
-        <area shape="poly" coords="13,480,128,288,250,163,491,164,492,482" href="/b/ref=nav_shopall_biss_gno_deals?ie=UTF8&amp;node=1264351011&amp;pf_rd_p=6d164664-e2f6-4338-bf83-b3fab5c900a4&amp;pf_rd_s=nav-sa-automotive-industrial&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=DK75F3NZD7P579ZTM8J9" alt="Industrial Deals"/>
+        <area shape="poly" coords="13,480,128,288,250,163,491,164,492,482" href="/b/ref=nav_shopall_biss_gno_deals?ie=UTF8&amp;node=1264351011&amp;pf_rd_p=6d164664-e2f6-4338-bf83-b3fab5c900a4&amp;pf_rd_s=nav-sa-automotive-industrial&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=5XH8GB0H6GNH5GRKHSE6" alt="Industrial Deals"/>
       </map>
       <map name="nav_imgmap_nav-sa-books" id="nav_imgmap_nav-sa-books">
-        <area shape="rect" coords="0,0,520,475" href="/Best-Books-of-the-Month/b/ref=nav_shopall_nav_sap_BOTM_evergreen?ie=UTF8&amp;node=390919011&amp;pf_rd_p=0c9c6f30-2ccc-4ce2-9693-bfc1cd9886fb&amp;pf_rd_s=nav-sa-books&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=DK75F3NZD7P579ZTM8J9" alt="Best Books of the Month"/>
+        <area shape="rect" coords="0,0,520,475" href="/Best-Books-of-the-Month/b/ref=nav_shopall_nav_sap_BOTM_evergreen?ie=UTF8&amp;node=390919011&amp;pf_rd_p=0c9c6f30-2ccc-4ce2-9693-bfc1cd9886fb&amp;pf_rd_s=nav-sa-books&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=5XH8GB0H6GNH5GRKHSE6" alt="Best Books of the Month"/>
       </map>
       <map name="nav_imgmap_nav-sa-clothing-shoes-jewelry" id="nav_imgmap_nav-sa-clothing-shoes-jewelry">
-        <area shape="poly" coords="488,497,65,507,72,380,243,346,246,54,492,52,491,436" href="/b/ref=af_w_flyout_dresses/ref=nav_shopall_nav_STEM?_encoding=UTF8&amp;node=1040660&amp;pf_rd_p=a022b470-c6ae-4877-aafa-996623dcbe4d&amp;pf_rd_s=nav-sa-clothing-shoes-jewelry&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=DK75F3NZD7P579ZTM8J9" alt="STEM"/>
+        <area shape="poly" coords="488,497,65,507,72,380,243,346,246,54,492,52,491,436" href="/b/ref=af_w_flyout_dresses/ref=nav_shopall_nav_STEM?_encoding=UTF8&amp;node=1040660&amp;pf_rd_p=a022b470-c6ae-4877-aafa-996623dcbe4d&amp;pf_rd_s=nav-sa-clothing-shoes-jewelry&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=5XH8GB0H6GNH5GRKHSE6" alt="STEM"/>
       </map>
       <map name="nav_imgmap_nav-sa-credit" id="nav_imgmap_nav-sa-credit">
-        <area shape="rect" coords="310,465,438,504" href="/iss/credit/storecardmember/ref=nav_sap_plcc_ascpsc/ref=nav_shopall_?_encoding=UTF8&amp;plattr=PLFLYGRAPH&amp;pf_rd_p=60120aa9-2cd7-4afb-b636-d73b0cad16ba&amp;pf_rd_s=nav-sa-credit&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=DK75F3NZD7P579ZTM8J9" alt="nav_sap_plcc_ascpsc"/>
+        <area shape="rect" coords="0,0,499,456" href="b/ref=nav_shopall_?_encoding=UTF8&amp;node=16491659011&amp;pf_rd_p=101ff18a-7b0a-49c9-9768-b75c19910651&amp;pf_rd_s=nav-sa-credit&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=5XH8GB0H6GNH5GRKHSE6" alt="nav_sap_hiltonhonors_launch"/>
       </map>
       <map name="nav_imgmap_nav-sa-digital-music" id="nav_imgmap_nav-sa-digital-music">
-        <area shape="poly" coords="238,2,226,233,154,258,115,281,2,281,1,500,497,500,497,1" href="/b/ref=nav_shopall_dmm_gw_fbb_aom_0926?_encoding=UTF8&amp;node=17272374011&amp;pf_rd_p=dcf8854f-2e5b-4ba2-90e1-a64b05bf1c27&amp;pf_rd_s=nav-sa-digital-music&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=DK75F3NZD7P579ZTM8J9" alt="Alexa on Mobile"/>
+        <area shape="poly" coords="238,2,226,233,154,258,115,281,2,281,1,500,497,500,497,1" href="/b/ref=nav_shopall_dmm_gw_fbb_aom_0926?_encoding=UTF8&amp;node=17272374011&amp;pf_rd_p=dcf8854f-2e5b-4ba2-90e1-a64b05bf1c27&amp;pf_rd_s=nav-sa-digital-music&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=5XH8GB0H6GNH5GRKHSE6" alt="Alexa on Mobile"/>
       </map>
       <map name="nav_imgmap_nav-sa-electronics-computers" id="nav_imgmap_nav-sa-electronics-computers">
-        <area shape="rect" coords="0,0,519,545" href="/b/ref=nav_shopall_iphone8_mi_gno?_encoding=UTF8&amp;node=17247036011&amp;pf_rd_p=ea7fe9ab-ec69-453b-a04b-6bdb104ab2f2&amp;pf_rd_s=nav-sa-electronics-computers&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=DK75F3NZD7P579ZTM8J9" alt="GNO for iPhone 8"/>
+        <area shape="rect" coords="0,0,519,545" href="/b/ref=nav_shopall_pcb_mi_gno?_encoding=UTF8&amp;node=16535815011&amp;pf_rd_p=ba3910e6-0454-4902-a118-f95d3ea13216&amp;pf_rd_s=nav-sa-electronics-computers&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=5XH8GB0H6GNH5GRKHSE6" alt="Get 10% cashback on thousands of musical instruments with your Amazon.com Store Credit Card"/>
       </map>
       <map name="nav_imgmap_nav-sa-fire-tv" id="nav_imgmap_nav-sa-fire-tv">
-        <area shape="rect" coords="2,2,500,499" href="/dp/B01N32NCPM/ref=nav_shopall_ods_gno_smp_ne?pf_rd_p=b5c808b8-a521-422e-a389-f90494260f35&amp;pf_rd_s=nav-sa-fire-tv&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=DK75F3NZD7P579ZTM8J9" alt="$69.99"/>
+        <area shape="rect" coords="2,2,500,499" href="/dp/B01N32NCPM/ref=nav_shopall_ods_gno_smp_ne?pf_rd_p=b5c808b8-a521-422e-a389-f90494260f35&amp;pf_rd_s=nav-sa-fire-tv&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=5XH8GB0H6GNH5GRKHSE6" alt="$69.99"/>
       </map>
       <map name="nav_imgmap_nav-sa-restaurants-food-grocery" id="nav_imgmap_nav-sa-restaurants-food-grocery">
-        <area shape="poly" coords="500,169,239,169,239,500,500,500" href="/b/ref=nav_shopall_us_gro_gno?_encoding=UTF8&amp;node=17202959011&amp;suppress-ve=1&amp;pf_rd_p=dccb5151-714a-4638-8429-1ec3eda9e7b5&amp;pf_rd_s=nav-sa-food-grocery&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=DK75F3NZD7P579ZTM8J9" alt="Grocery"/>
+        <area shape="poly" coords="500,169,239,169,239,500,500,500" href="/b/ref=nav_shopall_us_gro_gno?_encoding=UTF8&amp;node=17048157011&amp;suppress-ve=1&amp;pf_rd_p=1e44aace-686d-49ca-aeab-6a8a8f90cc8c&amp;pf_rd_s=nav-sa-food-grocery&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=5XH8GB0H6GNH5GRKHSE6" alt="Grocery"/>
       </map>
       <map name="nav_imgmap_nav-sa-handmade" id="nav_imgmap_nav-sa-handmade">
-        <area shape="poly" coords="0,230,0,519,499,519,499,0,380,0,380,100,240,100,240,230" href="/s/ref=nav_shopall_nav_sap_shop_all_hm_cal?_encoding=UTF8&amp;bbn=14344548011&amp;hidden-keywords=-fireman%2F%20-knit%2F%20-dog%2F%20-mesh%2F%20-camille%2F%20-Labyrinth%2F%20-teacher%2F%20-tutu%2F%20-nurse%2F%20-embroidered%2F&amp;ref=hm_ev_16&amp;rh=i%3Ahandmade%2Cn%3A11260432011%2Cn%3A%2111260433011%2Cn%3A11403468011%2Cn%3A14344548011%2Cn%3A14344558011&amp;pf_rd_p=2700e2b1-f9c0-4435-bbdd-f558b51aed11&amp;pf_rd_s=nav-sa-handmade&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=DK75F3NZD7P579ZTM8J9" alt="Handmade Tote Bags"/>
+        <area shape="poly" coords="0,230,0,519,499,519,499,0,380,0,380,100,240,100,240,230" href="/s/ref=nav_shopall_nav_sap_shop_all_hm_cal?_encoding=UTF8&amp;bbn=14344548011&amp;hidden-keywords=-fireman%2F%20-knit%2F%20-dog%2F%20-mesh%2F%20-camille%2F%20-Labyrinth%2F%20-teacher%2F%20-tutu%2F%20-nurse%2F%20-embroidered%2F&amp;ref=hm_ev_16&amp;rh=i%3Ahandmade%2Cn%3A11260432011%2Cn%3A%2111260433011%2Cn%3A11403468011%2Cn%3A14344548011%2Cn%3A14344558011&amp;pf_rd_p=2700e2b1-f9c0-4435-bbdd-f558b51aed11&amp;pf_rd_s=nav-sa-handmade&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=5XH8GB0H6GNH5GRKHSE6" alt="Handmade Tote Bags"/>
       </map>
       <map name="nav_imgmap_nav-sa-home-garden-tools" id="nav_imgmap_nav-sa-home-garden-tools">
-        <area shape="rect" coords="0,0,498,384" href="/b/ref=nav_shopall_nav_sap_hggOTC17?_encoding=UTF8&amp;node=10044414011&amp;pf_rd_p=8b4169e7-1d79-46aa-84a8-bf714e608c2f&amp;pf_rd_s=nav-sa-home-garden-tools&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=DK75F3NZD7P579ZTM8J9" alt="Home Gift Guide"/>
-        <area shape="rect" coords="232,386,495,531" href="/b/ref=nav_shopall_nav_sap_otcXSITE?_encoding=UTF8&amp;node=6361272011&amp;pf_rd_p=8b4169e7-1d79-46aa-84a8-bf714e608c2f&amp;pf_rd_s=nav-sa-home-garden-tools&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=DK75F3NZD7P579ZTM8J9" alt="Off to College"/>
-        <area shape="rect" coords="0,385,231,530" href="/b/ref=nav_shopall_nav_sap_hggOTC17?_encoding=UTF8&amp;node=10044414011&amp;pf_rd_p=8b4169e7-1d79-46aa-84a8-bf714e608c2f&amp;pf_rd_s=nav-sa-home-garden-tools&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=DK75F3NZD7P579ZTM8J9" alt="Home Gift Guide"/>
+        <area shape="rect" coords="0,0,508,492" href="/b/ref=nav_shopall_?_encoding=UTF8&amp;node=6997985011&amp;pf_rd_p=80fe7633-8fea-44d2-b83b-0cb94b38b272&amp;pf_rd_s=nav-sa-home-garden-tools&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=5XH8GB0H6GNH5GRKHSE6" alt="Home and Garden"/>
       </map>
       <map name="nav_imgmap_nav-sa-home-services" id="nav_imgmap_nav-sa-home-services">
-        <area shape="poly" coords="498,8,498,510,2,512,0,321,195,317,189,17" href="/Amazon-Home-Services/b/ref=nav_shopall_nav_sap_shop_all_vas_2hrsHC?ie=UTF8&amp;node=10192820011&amp;pf_rd_p=f8279774-16a1-4f96-83bc-4679464d4c98&amp;pf_rd_s=nav-sa-home-services&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=DK75F3NZD7P579ZTM8J9" alt="Book a house cleaner for 2 or more hours on Amazon"/>
+        <area shape="poly" coords="498,8,498,510,2,512,0,321,195,317,189,17" href="/Amazon-Home-Services/b/ref=nav_shopall_nav_sap_shop_all_vas_2hrsHC?ie=UTF8&amp;node=10192820011&amp;pf_rd_p=f8279774-16a1-4f96-83bc-4679464d4c98&amp;pf_rd_s=nav-sa-home-services&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=5XH8GB0H6GNH5GRKHSE6" alt="Book a house cleaner for 2 or more hours on Amazon"/>
       </map>
       <map name="nav_imgmap_nav-sa-instant-video" id="nav_imgmap_nav-sa-instant-video">
-        <area shape="rect" coords="223,0,495,490" href="/dp/B074Q5YKXH/ref=nav_shopall_dvm_us_avfly_17tnf?pf_rd_p=d1907190-7409-4ad2-ae3b-4adb39d6df02&amp;pf_rd_s=nav-sa-instant-video&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=DK75F3NZD7P579ZTM8J9" alt="TNF"/>
-        <area shape="rect" coords="124,274,225,490" href="/dp/B074Q5YKXH/ref=nav_shopall_dvm_us_avfly_17tnf?pf_rd_p=d1907190-7409-4ad2-ae3b-4adb39d6df02&amp;pf_rd_s=nav-sa-instant-video&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=DK75F3NZD7P579ZTM8J9" alt="TNF"/>
-        <area shape="rect" coords="0,333,126,490" href="/dp/B074Q5YKXH/ref=nav_shopall_dvm_us_avfly_17tnf?pf_rd_p=d1907190-7409-4ad2-ae3b-4adb39d6df02&amp;pf_rd_s=nav-sa-instant-video&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=DK75F3NZD7P579ZTM8J9" alt="TNF"/>
+        <area shape="rect" coords="223,0,495,490" href="/dp/B072JZWKPV/ref=nav_shopall_dvm_us_avfly_tvod_transformerslastknight?pf_rd_p=bbf1e5a3-a99b-4a8b-b398-3a3251ae6cd9&amp;pf_rd_s=nav-sa-instant-video&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=5XH8GB0H6GNH5GRKHSE6" alt="Transformers The Last Knight Available to Rent"/>
+        <area shape="rect" coords="124,274,225,490" href="/dp/B072JZWKPV /ref=nav_shopall_dvm_us_avfly_tvod_transformerslastknight?pf_rd_p=bbf1e5a3-a99b-4a8b-b398-3a3251ae6cd9&amp;pf_rd_s=nav-sa-instant-video&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=5XH8GB0H6GNH5GRKHSE6" alt="Transformers The Last Knight Available to Rent"/>
+        <area shape="rect" coords="0,333,126,490" href="/dp/B072JZWKPV /ref=nav_shopall_dvm_us_avfly_tvod_transformerslastknight?pf_rd_p=bbf1e5a3-a99b-4a8b-b398-3a3251ae6cd9&amp;pf_rd_s=nav-sa-instant-video&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=5XH8GB0H6GNH5GRKHSE6" alt="Transformers The Last Knight Available to Rent"/>
       </map>
       <map name="nav_imgmap_nav-sa-kindle-amazon-echo" id="nav_imgmap_nav-sa-kindle-amazon-echo">
-        <area shape="rect" coords="4,127,500,555" href="/b/ref=nav_shopall_ods_gno_ha_rr_ml ?_encoding=UTF8&amp;node=9818047011&amp;pf_rd_p=7de27d77-c887-4332-bb4c-42b2d38042c0&amp;pf_rd_s=nav-sa-kindle-amazon-echo&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=DK75F3NZD7P579ZTM8J9" alt=" Three new members of the Echo family"/>
+        <area shape="rect" coords="4,127,500,555" href="/b/ref=nav_shopall_ods_gno_ha_rr_ml ?_encoding=UTF8&amp;node=9818047011&amp;pf_rd_p=7de27d77-c887-4332-bb4c-42b2d38042c0&amp;pf_rd_s=nav-sa-kindle-amazon-echo&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=5XH8GB0H6GNH5GRKHSE6" alt=" Three new members of the Echo family"/>
       </map>
       <map name="nav_imgmap_nav-sa-kindle-fire-tablet" id="nav_imgmap_nav-sa-kindle-fire-tablet">
-        <area shape="rect" coords="2,2,500,499" href="/dp/B01J6RPGKG/ref=nav_shopall_ods_tab_gno_sz_announce?pf_rd_p=a24b01ea-92ee-436a-bad1-d3e94998e4a5&amp;pf_rd_s=nav-sa-kindle-fire-tablet&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=DK75F3NZD7P579ZTM8J9" alt="Introducing All-New Fire HD 10 with Alexa hands-free $149.99"/>
+        <area shape="rect" coords="2,2,500,499" href="/dp/B01J6RPGKG/ref=nav_shopall_ods_tab_gno_sz_announce?pf_rd_p=a24b01ea-92ee-436a-bad1-d3e94998e4a5&amp;pf_rd_s=nav-sa-kindle-fire-tablet&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=5XH8GB0H6GNH5GRKHSE6" alt="Introducing All-New Fire HD 10 with Alexa hands-free $149.99"/>
       </map>
       <map name="nav_imgmap_nav-sa-kindle-reader" id="nav_imgmap_nav-sa-kindle-reader">
-        <area shape="rect" coords="4,127,500,490" href="/dp/B00REQL3AE/ref=nav_shopall_ods_gno_eink_wsky_L?pf_rd_p=e1807e47-c4db-4463-8ffa-49eba7c7b39e&amp;pf_rd_s=nav-sa-kindle-reader&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=DK75F3NZD7P579ZTM8J9" alt="Kindle Oasis, unlike any Kindle you've ever held"/>
+        <area shape="rect" coords="4,127,500,490" href="/dp/B00REQL3AE/ref=nav_shopall_ods_gno_eink_wsky_L?pf_rd_p=e1807e47-c4db-4463-8ffa-49eba7c7b39e&amp;pf_rd_s=nav-sa-kindle-reader&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=5XH8GB0H6GNH5GRKHSE6" alt="Kindle Oasis, unlike any Kindle you've ever held"/>
       </map>
       <map name="nav_imgmap_nav-sa-movies-music-games" id="nav_imgmap_nav-sa-movies-music-games">
-        <area shape="poly" coords="497,31,498,511,0,512,0,316,192,299,201,32" href="/todaysdeals-dvd-bluray/b/ref=nav_shopall_nav_sap_dvd_xs3?ie=UTF8&amp;node=2921749011&amp;pf_rd_p=25e3e424-4fef-40fd-b0f1-e531b75d4209&amp;pf_rd_s=nav-sa-movies-music-games&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=DK75F3NZD7P579ZTM8J9" alt="GNO"/>
+        <area shape="poly" coords="15,398,131,395,226,392,258,356,264,306,268,258,268,49,268,11,490,12,490,310,409,385,393,455,146,452,132,495,21,495,15,494" href="/b/ref=nav_shopall_ti_mk_vggno?_encoding=UTF8&amp;node=9187220011&amp;pf_rd_p=44b4897d-dd80-421c-ad86-8cdaec1a20df&amp;pf_rd_s=nav-sa-movies-music-games&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=5XH8GB0H6GNH5GRKHSE6" alt="Trade in. Get paid. Go shopping."/>
       </map>
       <map name="nav_imgmap_nav-sa-sports-outdoors-t1" id="nav_imgmap_nav-sa-sports-outdoors-t1">
-        <area shape="rect" coords="0,305,498,525" href="/gp/adlp/FallSportsmanVPG/ref=nav_shopall_or-gno?ie=UTF8&amp;tab=VistaOutdoors&amp;pf_rd_p=3c78055c-daca-4b13-bc2b-a34a6a3d5d12&amp;pf_rd_s=nav-sa-sports-outdoors-t1&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=DK75F3NZD7P579ZTM8J9" alt="Shop Now"/>
+        <area shape="rect" coords="0,305,498,525" href="/gp/adlp/FallSportsmanVPG/ref=nav_shopall_or-gno?ie=UTF8&amp;tab=VistaOutdoors&amp;pf_rd_p=3c78055c-daca-4b13-bc2b-a34a6a3d5d12&amp;pf_rd_s=nav-sa-sports-outdoors-t1&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=5XH8GB0H6GNH5GRKHSE6" alt="Shop Now"/>
       </map>
       <map name="nav_imgmap_nav-sa-toys-kids-baby" id="nav_imgmap_nav-sa-toys-kids-baby">
-        <area shape="poly" coords="471,122,47,353,46,505,49,512,505,514,517,508" href="/b/ref=nav_shopall_ToyHW17?_encoding=UTF8&amp;node=166639011&amp;pf_rd_p=b82a0d88-e97e-49c8-899e-86a767d9ff17&amp;pf_rd_s=nav-sa-toys-kids-baby&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=DK75F3NZD7P579ZTM8J9" alt="ToyHW17_gno"/>
+        <area shape="poly" coords="471,122,47,353,46,505,49,512,505,514,517,508" href="/b/ref=nav_shopall_PSFF17?_encoding=UTF8&amp;node=17277666011&amp;pf_rd_p=9b12e5f5-3844-4fae-aa2a-41eb38911f9a&amp;pf_rd_s=nav-sa-toys-kids-baby&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=5XH8GB0H6GNH5GRKHSE6" alt="PSFF17_gno"/>
       </map>
       <script type="text/javascript">
 //<![CDATA[
@@ -1079,7 +1077,7 @@ window.navmet.tmp=+new Date();
 
 window.$Nav && $Nav.declare("config.navDeviceType", "desktop");
 
-window.$Nav && $Nav.when("data").run(function(data) { data({"emptyWishlist":{"template":{"name":"flyoutError","data":{"error":{"button":{"text":"Your Wishlist","url":"/gp/registry/wishlist/ref=nav_err_empty_wishlist/137-5010733-1602114"},"title":"Oops!","paragraph":"Your list is empty"}}}},"freshTimeout":{"template":{"name":"flyoutError","data":{"error":{"title":"<style>#nav-flyout-fresh{width:269px;padding:0;}#nav-flyout-fresh .nav-flyout-content{padding:0;}</style><a href='/amazonfresh'><img src='//images-na.ssl-images-amazon.com/images/G/01/omaha/images/yoda/flyout_72dpi._V270255989_.png' /></a>"}}}},"kindleTimeout":{"template":{"name":"flyoutError","data":{"error":{"paragraph":"Unable to retrieve list, please try again later"}}}},"shopAllTimeout":{"template":{"name":"flyoutError","data":{"error":{"paragraph":"Unable to retrieve departments, please try again later"}}}},"primeTimeout":{"template":{"name":"flyoutError","data":{"error":{"title":"<a href='/gp/prime'><img src='//images-na.ssl-images-amazon.com/images/G/01/prime/piv/YourPrimePIV_fallback_CTA._V327346943_.jpg' /></a>"}}}},"errorWishlist":{"template":{"name":"flyoutError","data":{"error":{"button":{"text":"Your Wishlist","url":"/gp/registry/wishlist/ref=nav_err_wishlist/137-5010733-1602114"},"title":"Oops!","paragraph":"Unable to retrieve your wishlist"}}}},"yourAccountContent":{"template":{"name":"flyoutError","data":{"error":{"button":{"text":"Your Account","url":"/gp/css/homepage.html/ref=nav_err_youraccount/137-5010733-1602114"},"title":"Oops!","paragraph":"Unable to retrieve your account"}}}},"cartTimeout":{"template":{"name":"flyoutError","data":{"error":{"button":{"text":"Your Cart","url":"/gp/cart/view.html/ref=nav_err_cart_timeout/137-5010733-1602114"},"title":"Oops!","paragraph":"Unable to retrieve your cart."}}}},"ewcTimeout":{"template":{"name":"flyoutError","data":{"error":{"button":{"text":"Your Cart","url":"/gp/cart/view.html/ref=nav_err_ewc_timeout/137-5010733-1602114"},"title":"Oops!","paragraph":"There's a problem loading your cart right now."}}}}}); });
+window.$Nav && $Nav.when("data").run(function(data) { data({"emptyWishlist":{"template":{"name":"flyoutError","data":{"error":{"button":{"text":"Your Wishlist","url":"/gp/registry/wishlist/ref=nav_err_empty_wishlist/147-5490763-7326650"},"title":"Oops!","paragraph":"Your list is empty"}}}},"freshTimeout":{"template":{"name":"flyoutError","data":{"error":{"title":"<style>#nav-flyout-fresh{width:269px;padding:0;}#nav-flyout-fresh .nav-flyout-content{padding:0;}</style><a href='/amazonfresh'><img src='//images-na.ssl-images-amazon.com/images/G/01/omaha/images/yoda/flyout_72dpi._V270255989_.png' /></a>"}}}},"kindleTimeout":{"template":{"name":"flyoutError","data":{"error":{"paragraph":"Unable to retrieve list, please try again later"}}}},"shopAllTimeout":{"template":{"name":"flyoutError","data":{"error":{"paragraph":"Unable to retrieve departments, please try again later"}}}},"primeTimeout":{"template":{"name":"flyoutError","data":{"error":{"title":"<a href='/gp/prime'><img src='//images-na.ssl-images-amazon.com/images/G/01/prime/piv/YourPrimePIV_fallback_CTA._V327346943_.jpg' /></a>"}}}},"errorWishlist":{"template":{"name":"flyoutError","data":{"error":{"button":{"text":"Your Wishlist","url":"/gp/registry/wishlist/ref=nav_err_wishlist/147-5490763-7326650"},"title":"Oops!","paragraph":"Unable to retrieve your wishlist"}}}},"yourAccountContent":{"template":{"name":"flyoutError","data":{"error":{"button":{"text":"Your Account","url":"/gp/css/homepage.html/ref=nav_err_youraccount/147-5490763-7326650"},"title":"Oops!","paragraph":"Unable to retrieve your account"}}}},"cartTimeout":{"template":{"name":"flyoutError","data":{"error":{"button":{"text":"Your Cart","url":"/gp/cart/view.html/ref=nav_err_cart_timeout/147-5490763-7326650"},"title":"Oops!","paragraph":"Unable to retrieve your cart."}}}},"ewcTimeout":{"template":{"name":"flyoutError","data":{"error":{"button":{"text":"Your Cart","url":"/gp/cart/view.html/ref=nav_err_ewc_timeout/147-5490763-7326650"},"title":"Oops!","paragraph":"There's a problem loading your cart right now."}}}}}); });
 
   window.$Nav && $Nav.when("util.templates").run("FlyoutErrorTemplate", function (templates) {
     templates.add("flyoutError", "<# if(error.title) { #><span class='nav-title'><#=error.title #></span><# } #><# if(error.paragraph) { #><p class='nav-paragraph'><#=error.paragraph #></p><# } #><# if(error.button) { #><a href='<#=error.button.url #>' class='nav-action-button' ><span class='nav-action-inner'><#=error.button.text #></span></a><# } #>");
@@ -1092,7 +1090,7 @@ window.$Nav && $Nav.declare('config.navDebugHighres', false);
 
 
 window.$Nav && $Nav.declare('config.upnavHighResImgInfo',
-  {"upnav2xImageHeight":"height: 55px","upnav2xImagePath":"https://images-na.ssl-images-amazon.com/images/G/01/airstream/upnav/C/C_latest_2x._CB515495616_.jpg"});
+  {"upnav2xImageHeight":"height: 55px","upnav2xImagePath":"https://images-na.ssl-images-amazon.com/images/G/01/airstream/upnav/C/C_latest_2x._CB515401568_.jpg"});
 
 window.$Nav && $Nav.declare('config.upnav2xAiryPreloadImgInfo',
   {"preloadImgPath":"","preloadImgHeight":""});
@@ -1103,10 +1101,10 @@ window.$Nav && $Nav.declare('config.upnav2xAiryPostSlateImgInfo',
 window.$Nav && $Nav.declare('config.pageType', 'Search');
 window.$Nav && $Nav.declare('config.subPageType', '');
 
-window.$Nav && $Nav.declare('config.dynamicMenuUrl', '/gp/navigation/ajax/dynamic-menu.html/137-5010733-1602114');
+window.$Nav && $Nav.declare('config.dynamicMenuUrl', '/gp/navigation/ajax/dynamic-menu.html/147-5490763-7326650');
 
 window.$Nav && $Nav.declare('config.dismissNotificationUrl',
-  '/gp/navigation/ajax/dismissnotification.html/137-5010733-1602114');
+  '/gp/navigation/ajax/dismissnotification.html/147-5490763-7326650');
 
 window.$Nav && $Nav.declare('config.fixedSubBarBeacon',false);
 
@@ -1119,13 +1117,13 @@ window.$Nav && $Nav.declare('config.isRecognized', false);
 window.$Nav && $Nav.declare('config.transientFlyoutTrigger', '#nav-transient-flyout-trigger');
 
 window.$Nav && $Nav.declare('config.subnavFlyoutUrl',
-  '/gp/navigation/ajax/subnav-flyout/137-5010733-1602114');
+  '/gp/navigation/ajax/subnav-flyout/147-5490763-7326650');
 
 window.$Nav && $Nav.declare('config.recordEvUrl',
-  '/gp/navigation/ajax/recordevent.html/137-5010733-1602114');
+  '/gp/navigation/ajax/recordevent.html/147-5490763-7326650');
 window.$Nav && $Nav.declare('config.recordEvInterval', 15000);
-window.$Nav && $Nav.declare('config.sessionId', '137-5010733-1602114');
-window.$Nav && $Nav.declare('config.requestId', 'X8BCXF4R6467AW893R3S');
+window.$Nav && $Nav.declare('config.sessionId', '147-5490763-7326650');
+window.$Nav && $Nav.declare('config.requestId', 'R38CX3JFRN5FQMGSX548');
 
 
 window.$Nav && $Nav.declare('config.alexaListEnabled', true);
@@ -1133,7 +1131,7 @@ window.$Nav && $Nav.declare('config.alexaListEnabled', true);
 window.$Nav && $Nav.declare('config.readyOnATF', true);
 
 window.$Nav && $Nav.declare('config.dynamicMenuArgs',
-  {"rid":"X8BCXF4R6467AW893R3S","isFullWidthPrime":0,"isPrime":0,"dynamicRequest":1,"weblabs":"","isFreshRegionAndCustomer":"","primeMenuWidth":310});
+  {"rid":"R38CX3JFRN5FQMGSX548","isFullWidthPrime":0,"isPrime":0,"dynamicRequest":1,"weblabs":"","isFreshRegionAndCustomer":"","primeMenuWidth":310});
 
 window.$Nav && $Nav.declare('config.signOutText',
   null);
@@ -1148,7 +1146,7 @@ window.$Nav && $Nav.declare('config.yourAccountPrimeHover',
   true);
 
 window.$Nav && $Nav.declare('config.searchBackState',
-  {"suppressNoCache":null,"searchbar":{"data":{"nav-metadata":{"digest":"IlD0A/vig5G6BxmI9ZF+U4F7QbY","selected":11},"options":[{"_display":"All Departments","value":"search-alias=aps"},{"_display":"Alexa Skills","value":"search-alias=alexa-skills"},{"_display":"Amazon Devices","value":"search-alias=amazon-devices"},{"_display":"Amazon Video","value":"search-alias=instant-video"},{"_display":"Amazon Warehouse Deals","value":"search-alias=warehouse-deals"},{"_display":"Appliances","value":"search-alias=appliances"},{"_display":"Apps & Games","value":"search-alias=mobile-apps"},{"_display":"Arts, Crafts & Sewing","value":"search-alias=arts-crafts"},{"_display":"Automotive Parts & Accessories","value":"search-alias=automotive"},{"_display":"Baby","value":"search-alias=baby-products"},{"_display":"Beauty & Personal Care","value":"search-alias=beauty"},{"_display":"Books","value":"search-alias=stripbooks","selected":"selected"},{"_display":"CDs & Vinyl","value":"search-alias=popular"},{"_display":"Cell Phones & Accessories","value":"search-alias=mobile"},{"_display":"Clothing, Shoes & Jewelry","value":"search-alias=fashion"},{"_display":"&#160;&#160;&#160;Women","value":"search-alias=fashion-womens"},{"_display":"&#160;&#160;&#160;Men","value":"search-alias=fashion-mens"},{"_display":"&#160;&#160;&#160;Girls","value":"search-alias=fashion-girls"},{"_display":"&#160;&#160;&#160;Boys","value":"search-alias=fashion-boys"},{"_display":"&#160;&#160;&#160;Baby","value":"search-alias=fashion-baby"},{"_display":"Collectibles & Fine Art","value":"search-alias=collectibles"},{"_display":"Computers","value":"search-alias=computers"},{"_display":"Courses","value":"search-alias=courses"},{"_display":"Credit and Payment Cards","value":"search-alias=financial"},{"_display":"Digital Music","value":"search-alias=digital-music"},{"_display":"Electronics","value":"search-alias=electronics"},{"_display":"Gift Cards","value":"search-alias=gift-cards"},{"_display":"Grocery & Gourmet Food","value":"search-alias=grocery"},{"_display":"Handmade","value":"search-alias=handmade"},{"_display":"Health, Household & Baby Care","value":"search-alias=hpc"},{"_display":"Home & Business Services","value":"search-alias=local-services"},{"_display":"Home & Kitchen","value":"search-alias=garden"},{"_display":"Industrial & Scientific","value":"search-alias=industrial"},{"_display":"Kindle Store","value":"search-alias=digital-text"},{"_display":"Luggage & Travel Gear","value":"search-alias=fashion-luggage"},{"_display":"Luxury Beauty","value":"search-alias=luxury-beauty"},{"_display":"Magazine Subscriptions","value":"search-alias=magazines"},{"_display":"Movies & TV","value":"search-alias=movies-tv"},{"_display":"Musical Instruments","value":"search-alias=mi"},{"_display":"Office Products","value":"search-alias=office-products"},{"_display":"Patio, Lawn & Garden","value":"search-alias=lawngarden"},{"_display":"Pet Supplies","value":"search-alias=pets"},{"_display":"Prime Exclusive","value":"search-alias=prime-exclusive"},{"_display":"Prime Pantry","value":"search-alias=pantry"},{"_display":"Software","value":"search-alias=software"},{"_display":"Sports & Outdoors","value":"search-alias=sporting"},{"_display":"Tools & Home Improvement","value":"search-alias=tools"},{"_display":"Toys & Games","value":"search-alias=toys-and-games"},{"_display":"Vehicles","value":"search-alias=vehicles"},{"_display":"Video Games","value":"search-alias=videogames"},{"_display":"Wine","value":"search-alias=wine"}]},"type":"searchbar"},"catsubnav":{"categoryKey":"books","style":null,"digest":"KPc6jCBy78NgBep2bEd6LCV3ARk","category":{"data":{"flyoutID":"nav_subnav_flyout_0","highlightLinkBold":"1","highlightLinkColor":"#e47911","highlightLinkBottomStyle":"2px solid #ff9900","categoryStyle":"","text":"Books","href":"/books-used-books-textbooks/b/ref=topnav_storetab_b/137-5010733-1602114?ie=UTF8&node=283155","highlightLink":"1"},"type":"link"},"subnav":{"data":[{"highlightLink":"1","href":"/Advanced-Search-Books/b/ref=sv_b_0/137-5010733-1602114?ie=UTF8&node=241582011","text":"Advanced Search","highlightLinkBold":"1","highlightLinkBottomStyle":"2px solid #ff9900","highlightLinkColor":"#e47911"},{"highlightLink":"1","href":"/gp/new-releases/books/ref=sv_b_1/137-5010733-1602114","text":"New Releases","highlightLinkBold":"1","highlightLinkBottomStyle":"2px solid #ff9900","highlightLinkColor":"#e47911"},{"highlightLink":"1","href":"/charts/ref=sv_b_2/137-5010733-1602114","text":"NEW! Amazon Charts","highlightLinkBold":"1","highlightLinkBottomStyle":"2px solid #ff9900","highlightLinkColor":"#e47911"},{"highlightLink":"1","href":"/b/ref=sv_b_3/137-5010733-1602114?ie=UTF8&node=16857165011","text":"Best Sellers &amp; More","highlightLinkBold":"1","highlightLinkBottomStyle":"2px solid #ff9900","highlightLinkColor":"#e47911"},{"highlightLink":"1","href":"/Books/b/ref=sv_b_4/137-5010733-1602114?ie=UTF8&node=549028","text":"The New York Times® Best Sellers","highlightLinkBold":"1","highlightLinkBottomStyle":"2px solid #ff9900","highlightLinkColor":"#e47911"},{"highlightLink":"1","href":"/Childrens-Books/b/ref=sv_b_5/137-5010733-1602114?ie=UTF8&node=4","text":"Children's Books","highlightLinkBold":"1","highlightLinkBottomStyle":"2px solid #ff9900","highlightLinkColor":"#e47911"},{"highlightLink":"1","href":"/New-Used-Textbooks-Books/b/ref=sv_b_6/137-5010733-1602114?ie=UTF8&node=465600","text":"Textbooks","highlightLinkBold":"1","highlightLinkBottomStyle":"2px solid #ff9900","highlightLinkColor":"#e47911"},{"highlightLink":"1","href":"/Rent-Textbooks/b/ref=sv_b_7/137-5010733-1602114?ie=UTF8&node=5657188011","text":"Textbook Rentals","highlightLinkBold":"1","highlightLinkBottomStyle":"2px solid #ff9900","highlightLinkColor":"#e47911"},{"highlightLink":"1","href":"/Sell-Books/b/ref=sv_b_8/137-5010733-1602114?ie=UTF8&node=2205237011","text":"Sell Us Your Books","highlightLinkBold":"1","highlightLinkBottomStyle":"2px solid #ff9900","highlightLinkColor":"#e47911"},{"highlightLink":"1","href":"/Best-Books-of-the-Month/b/ref=sv_b_9/137-5010733-1602114?ie=UTF8&node=390919011","text":"Best Books of the Month","highlightLinkBold":"1","highlightLinkBottomStyle":"2px solid #ff9900","highlightLinkColor":"#e47911"},{"highlightLink":"1","href":"/Kindle-eBooks/b/ref=sv_b_10/137-5010733-1602114?ie=UTF8&node=154606011","text":"Kindle eBooks","highlightLinkBold":"1","highlightLinkBottomStyle":"2px solid #ff9900","highlightLinkColor":"#e47911"}],"type":"linkSequence"}}});
+  {"suppressNoCache":null,"searchbar":{"data":{"nav-metadata":{"digest":"IlD0A/vig5G6BxmI9ZF+U4F7QbY","selected":11},"options":[{"_display":"All Departments","value":"search-alias=aps"},{"_display":"Alexa Skills","value":"search-alias=alexa-skills"},{"_display":"Amazon Devices","value":"search-alias=amazon-devices"},{"_display":"Amazon Video","value":"search-alias=instant-video"},{"_display":"Amazon Warehouse Deals","value":"search-alias=warehouse-deals"},{"_display":"Appliances","value":"search-alias=appliances"},{"_display":"Apps & Games","value":"search-alias=mobile-apps"},{"_display":"Arts, Crafts & Sewing","value":"search-alias=arts-crafts"},{"_display":"Automotive Parts & Accessories","value":"search-alias=automotive"},{"_display":"Baby","value":"search-alias=baby-products"},{"_display":"Beauty & Personal Care","value":"search-alias=beauty"},{"_display":"Books","value":"search-alias=stripbooks","selected":"selected"},{"_display":"CDs & Vinyl","value":"search-alias=popular"},{"_display":"Cell Phones & Accessories","value":"search-alias=mobile"},{"_display":"Clothing, Shoes & Jewelry","value":"search-alias=fashion"},{"_display":"&#160;&#160;&#160;Women","value":"search-alias=fashion-womens"},{"_display":"&#160;&#160;&#160;Men","value":"search-alias=fashion-mens"},{"_display":"&#160;&#160;&#160;Girls","value":"search-alias=fashion-girls"},{"_display":"&#160;&#160;&#160;Boys","value":"search-alias=fashion-boys"},{"_display":"&#160;&#160;&#160;Baby","value":"search-alias=fashion-baby"},{"_display":"Collectibles & Fine Art","value":"search-alias=collectibles"},{"_display":"Computers","value":"search-alias=computers"},{"_display":"Courses","value":"search-alias=courses"},{"_display":"Credit and Payment Cards","value":"search-alias=financial"},{"_display":"Digital Music","value":"search-alias=digital-music"},{"_display":"Electronics","value":"search-alias=electronics"},{"_display":"Gift Cards","value":"search-alias=gift-cards"},{"_display":"Grocery & Gourmet Food","value":"search-alias=grocery"},{"_display":"Handmade","value":"search-alias=handmade"},{"_display":"Health, Household & Baby Care","value":"search-alias=hpc"},{"_display":"Home & Business Services","value":"search-alias=local-services"},{"_display":"Home & Kitchen","value":"search-alias=garden"},{"_display":"Industrial & Scientific","value":"search-alias=industrial"},{"_display":"Kindle Store","value":"search-alias=digital-text"},{"_display":"Luggage & Travel Gear","value":"search-alias=fashion-luggage"},{"_display":"Luxury Beauty","value":"search-alias=luxury-beauty"},{"_display":"Magazine Subscriptions","value":"search-alias=magazines"},{"_display":"Movies & TV","value":"search-alias=movies-tv"},{"_display":"Musical Instruments","value":"search-alias=mi"},{"_display":"Office Products","value":"search-alias=office-products"},{"_display":"Patio, Lawn & Garden","value":"search-alias=lawngarden"},{"_display":"Pet Supplies","value":"search-alias=pets"},{"_display":"Prime Exclusive","value":"search-alias=prime-exclusive"},{"_display":"Prime Pantry","value":"search-alias=pantry"},{"_display":"Software","value":"search-alias=software"},{"_display":"Sports & Outdoors","value":"search-alias=sporting"},{"_display":"Tools & Home Improvement","value":"search-alias=tools"},{"_display":"Toys & Games","value":"search-alias=toys-and-games"},{"_display":"Vehicles","value":"search-alias=vehicles"},{"_display":"Video Games","value":"search-alias=videogames"},{"_display":"Wine","value":"search-alias=wine"}]},"type":"searchbar"},"catsubnav":{"categoryKey":"books","style":null,"digest":"KPc6jCBy78NgBep2bEd6LCV3ARk","category":{"data":{"flyoutID":"nav_subnav_flyout_0","highlightLinkBold":"1","highlightLinkColor":"#e47911","highlightLinkBottomStyle":"2px solid #ff9900","categoryStyle":"","text":"Books","href":"/books-used-books-textbooks/b/ref=topnav_storetab_b/147-5490763-7326650?ie=UTF8&node=283155","highlightLink":"1"},"type":"link"},"subnav":{"data":[{"highlightLink":"1","href":"/Advanced-Search-Books/b/ref=sv_b_0/147-5490763-7326650?ie=UTF8&node=241582011","text":"Advanced Search","highlightLinkBold":"1","highlightLinkBottomStyle":"2px solid #ff9900","highlightLinkColor":"#e47911"},{"highlightLink":"1","href":"/gp/new-releases/books/ref=sv_b_1/147-5490763-7326650","text":"New Releases","highlightLinkBold":"1","highlightLinkBottomStyle":"2px solid #ff9900","highlightLinkColor":"#e47911"},{"highlightLink":"1","href":"/charts/ref=sv_b_2/147-5490763-7326650","text":"NEW! Amazon Charts","highlightLinkBold":"1","highlightLinkBottomStyle":"2px solid #ff9900","highlightLinkColor":"#e47911"},{"highlightLink":"1","href":"/b/ref=sv_b_3/147-5490763-7326650?ie=UTF8&node=16857165011","text":"Best Sellers &amp; More","highlightLinkBold":"1","highlightLinkBottomStyle":"2px solid #ff9900","highlightLinkColor":"#e47911"},{"highlightLink":"1","href":"/Books/b/ref=sv_b_4/147-5490763-7326650?ie=UTF8&node=549028","text":"The New York Times® Best Sellers","highlightLinkBold":"1","highlightLinkBottomStyle":"2px solid #ff9900","highlightLinkColor":"#e47911"},{"highlightLink":"1","href":"/Childrens-Books/b/ref=sv_b_5/147-5490763-7326650?ie=UTF8&node=4","text":"Children's Books","highlightLinkBold":"1","highlightLinkBottomStyle":"2px solid #ff9900","highlightLinkColor":"#e47911"},{"highlightLink":"1","href":"/New-Used-Textbooks-Books/b/ref=sv_b_6/147-5490763-7326650?ie=UTF8&node=465600","text":"Textbooks","highlightLinkBold":"1","highlightLinkBottomStyle":"2px solid #ff9900","highlightLinkColor":"#e47911"},{"highlightLink":"1","href":"/Rent-Textbooks/b/ref=sv_b_7/147-5490763-7326650?ie=UTF8&node=5657188011","text":"Textbook Rentals","highlightLinkBold":"1","highlightLinkBottomStyle":"2px solid #ff9900","highlightLinkColor":"#e47911"},{"highlightLink":"1","href":"/Sell-Books/b/ref=sv_b_8/147-5490763-7326650?ie=UTF8&node=2205237011","text":"Sell Us Your Books","highlightLinkBold":"1","highlightLinkBottomStyle":"2px solid #ff9900","highlightLinkColor":"#e47911"},{"highlightLink":"1","href":"/Best-Books-of-the-Month/b/ref=sv_b_9/147-5490763-7326650?ie=UTF8&node=390919011","text":"Best Books of the Month","highlightLinkBold":"1","highlightLinkBottomStyle":"2px solid #ff9900","highlightLinkColor":"#e47911"},{"highlightLink":"1","href":"/Kindle-eBooks/b/ref=sv_b_10/147-5490763-7326650?ie=UTF8&node=154606011","text":"Kindle eBooks","highlightLinkBold":"1","highlightLinkBottomStyle":"2px solid #ff9900","highlightLinkColor":"#e47911"}],"type":"linkSequence"}}});
 
 
 
@@ -1179,13 +1177,13 @@ window.$Nav && $Nav.declare('config.searchBackState',
     , searchAliases: ["aps", "amazon-custom-products", "amazon-devices", "amazonbasics", "amazonfresh", "stripbooks", "popular", "apparel", "electronics", "sporting", "sports-and-fitness", "outdoor-recreation", "fan-shop", "garden", "videogames", "toys-and-games", "jewelry", "digital-text", "digital-music", "prime-digital-music", "watches", "grocery", "hpc", "instant-video", "handmade", "handmade-jewelry", "handmade-home-and-kitchen", "prime-instant-video", "shop-instant-video", "baby-products", "office-products", "software", "magazines", "tools", "automotive", "misc", "industrial", "mi", "pet-supplies", "digital-music-track", "digital-music-album", "mobile", "mobile-apps", "movies-tv", "music-artist", "music-album", "music-song", "stripbooks-spanish", "electronics-accessories", "pantry", "photo", "audio-video", "computers", "furniture", "kitchen", "audible", "audiobooks", "beauty", "shoes", "arts-crafts", "appliances", "gift-cards", "pets", "outdoor", "lawngarden", "collectibles", "replacement-parts", "financial", "wine", "fine-art", "fashion", "fashion-womens", "fashion-womens-clothing", "fashion-womens-jewelry", "fashion-womens-shoes", "fashion-womens-watches", "fashion-womens-handbags", "fashion-mens", "fashion-mens-clothing", "fashion-mens-jewelry", "fashion-mens-shoes", "fashion-mens-watches", "fashion-girls", "fashion-girls-clothing", "fashion-girls-jewelry", "fashion-girls-shoes", "fashion-girls-watches", "fashion-boys", "fashion-boys-clothing", "fashion-boys-jewelry", "fashion-boys-shoes", "fashion-boys-watches", "fashion-baby", "fashion-baby-boys", "fashion-baby-girls", "fashion-luggage", "3d-printing", "tradein-aps", "local-services", "vehicles", "video-shorts", "warehouse-deals", "luxury-beauty", "banjo-apps", "alexa-skills", "subscribe-with-amazon", "courses", "amazon-global-store"]
     , filterAliases: []
     , pageType: "Search"
-    , requestId: "X8BCXF4R6467AW893R3S"
-    , sessionId: "137-5010733-1602114"
+    , requestId: "R38CX3JFRN5FQMGSX548"
+    , sessionId: "147-5490763-7326650"
     , language: "en_US"
     , customerId: ""
     , b2b: 0
     , fresh: 0
-    , biaWidgetUrl: "/gp/yourstore/137-5010733-1602114?ie=UTF8&edit=1&p=aiVM2TpE4DXdF%2BYHWhrPNKko6148BNs6oN04aZIR5MST6u7FquabpO5lQb4ivcbMOdQno9nxxky%2F%2FfHH3S%2Fa9oWeXcQkG9v%2B&ref=nb_sb_ss_bia_acct"
+    , biaWidgetUrl: "/gp/yourstore/147-5490763-7326650?ie=UTF8&edit=1&p=EL4Yz45rupU%2B7lh7b%2F6zEP4hQ01itplii0sPt1ZEw3aUXmkYgh75FUC7XO5mYeIXvJ6OA26qMIwX7SNRdqz4c4FrcLgpeixb&ref=nb_sb_ss_bia_acct"
     , isDdInT3: 0
     , isDdInT1: 0
     , isJpOrCn: 0
@@ -1400,7 +1398,7 @@ window.$Nav && $Nav.declare('config.flyoutAnimation', false);
 window.$Nav && $Nav.declare('config.campusActivation', '');
 
 
-window.$Nav && $Nav.declare('config.primeTooltip',{url:'/gp/prime/digital-adoption/navigation-bar/137-5010733-1602114'});
+window.$Nav && $Nav.declare('config.primeTooltip',{url:'/gp/prime/digital-adoption/navigation-bar/147-5490763-7326650'});
 
 window.$Nav && $Nav.declare('config.primeDay',false);
 
@@ -1420,7 +1418,7 @@ window.$Nav && $Nav.declare('config.pseudoPrimeFirstBrowse',false);
 
 window.$Nav && $Nav.declare('config.sdaYourAccount',false);
 
-window.$Nav && $Nav.declare('config.csYourAccount',{url:"/gp/youraccount/navigation/sidepanel/137-5010733-1602114"});
+window.$Nav && $Nav.declare('config.csYourAccount',{url:"/gp/youraccount/navigation/sidepanel/147-5490763-7326650"});
 
 window.$Nav && $Nav.declare('config.cartFlyoutDisabled', true);
 
@@ -1466,25 +1464,25 @@ window.$Nav && $Nav.declare('config.timelineDeleteEnabled',false);
     window._navbar = window._navbar || {};
     window._navbar.browsepromos = window._navbar.browsepromos || {};
     
- _navbar.browsepromos['nav-sa-android'] = {"width":"519","promoType":"wide","vertOffset":"-10","tabletAltText":null,"horizOffset":"-20","height":"545","altText":"Bubble Witch Saga 3","image":"https://images-na.ssl-images-amazon.com/images/G/01/temp/bb/featured/BubbleWitch3Saga/4794_BUBBLE_WITCH_SAGA3_US_FLYOUT_519x545._CB520468225_.png","tabletDestination":null,"tabletImage":null}; 
+ _navbar.browsepromos['nav-sa-android'] = {"width":"519","promoType":"wide","vertOffset":"-10","tabletAltText":null,"horizOffset":"-20","height":"545","altText":"Hill Climb Racing 2","image":"https://images-na.ssl-images-amazon.com/images/G/01/temp/2017billboards/April20/4987_US_FLYOUT_519x545_HILL_CLIMB_RACING_2._CB530431393_.png","tabletDestination":null,"tabletImage":null}; 
  _navbar.browsepromos['nav-sa-automotive-industrial'] = {"width":"519","promoType":"wide","vertOffset":"-10","tabletAltText":null,"horizOffset":"-20","height":"535","altText":"Deals for your business","image":"https://images-na.ssl-images-amazon.com/images/G/01/img17/biss/gateway/1053917_us_biss_flyout_fix_26-6-2017_flyout_519x535._CB505537948_.png","tabletDestination":null,"tabletImage":null}; 
  _navbar.browsepromos['nav-sa-books'] = {"width":"519","promoType":"wide","vertOffset":"-10","tabletAltText":null,"horizOffset":"-20","height":"545","altText":"Learn more about the Amazon Editors' Best Books of the Month","image":"https://images-na.ssl-images-amazon.com/images/G/01/img14/books/flyout/14711_books_holidayEvergreenGNO_flyout_us_classic_02._CB510993172_.png","tabletDestination":null,"tabletImage":null}; 
  _navbar.browsepromos['nav-sa-clothing-shoes-jewelry'] = {"width":"519","promoType":"wide","vertOffset":"0","tabletAltText":null,"horizOffset":"-20","height":"525","altText":null,"image":"https://images-na.ssl-images-amazon.com/images/G/01/AMAZON_FASHION/2017/EDITORIAL/FALL_2/GATEWAY/FLYOUT/FO_GNO3_W_Clothing._CB517666464_.png","tabletDestination":null,"tabletImage":null}; 
- _navbar.browsepromos['nav-sa-credit'] = {"width":"519","promoType":"wide","vertOffset":"0","tabletAltText":null,"horizOffset":"-20","height":"522","altText":"Special financing on orders $149 or more with the Amazon.com Store Card. Prime members earn 5% back with the Amazon Prime Store Card.","image":"https://images-na.ssl-images-amazon.com/images/G/01/credit/PLCC/GNO/plcc-both_flyout._CB294368850_.png","tabletDestination":null,"tabletImage":null}; 
+ _navbar.browsepromos['nav-sa-credit'] = {"width":"519","promoType":"wide","vertOffset":"0","tabletAltText":null,"horizOffset":"-10","height":"535","altText":"Now use Hilton Honors Points to shop at Amazon.com","image":"https://images-na.ssl-images-amazon.com/images/G/01/credit/img17/SWP/hilton/us_credit-hilton_flyout_519x535._CB518429175_.png","tabletDestination":null,"tabletImage":null}; 
  _navbar.browsepromos['nav-sa-digital-music'] = {"width":"519","promoType":"wide","vertOffset":"-10","tabletAltText":null,"horizOffset":"-20","height":"517","altText":"Alexa on Mobile","image":"https://images-na.ssl-images-amazon.com/images/G/01/digital/music/merch/2017/Other/AlexaOnMobile/AOM_Flyout_Blackbelt._CB516476695_.png","tabletDestination":null,"tabletImage":null}; 
- _navbar.browsepromos['nav-sa-electronics-computers'] = {"width":"519","promoType":"wide","vertOffset":"-10","tabletAltText":null,"horizOffset":"-20","height":"535","altText":null,"image":"https://images-na.ssl-images-amazon.com/images/G/01/img17/consumer-electronics/gateway/1067350_us_wireless_products_iphone_flyout_519x535_r2._CB517957558_.png","tabletDestination":null,"tabletImage":null}; 
+ _navbar.browsepromos['nav-sa-electronics-computers'] = {"width":"519","promoType":"wide","vertOffset":"-10","tabletAltText":null,"horizOffset":"-20","height":"535","altText":"Get 10% cashback on thousands of musical instruments with your Amazon.com Store Credit Card","image":"https://images-na.ssl-images-amazon.com/images/G/01/img17/musical-instruments/gw-desktop/1063004_us_musical_instruments_pcb_credit_marketing_flyout_519x535._CB518948493_.png","tabletDestination":null,"tabletImage":null}; 
  _navbar.browsepromos['nav-sa-fire-tv'] = {"width":"519","promoType":"wide","vertOffset":"0","tabletAltText":null,"horizOffset":"-20","height":"522","altText":"All-New Fire TV","image":"https://images-na.ssl-images-amazon.com/images/G/01/kindle/merch/2017/SMP/Launch/MerchAssets/W/519x522_GNO_v2._CB515786919_.png","tabletDestination":null,"tabletImage":null}; 
- _navbar.browsepromos['nav-sa-restaurants-food-grocery'] = {"width":"519","promoType":"wide","vertOffset":"-10","tabletAltText":null,"horizOffset":"-20","height":"535","altText":"Fall Celebration: Explore these flavors and favorites.","image":"https://images-na.ssl-images-amazon.com/images/G/01/img17/grocery/gateway/1063345_us_grocery_us_flyout_519x535._CB517134862_.png","tabletDestination":null,"tabletImage":null}; 
+ _navbar.browsepromos['nav-sa-restaurants-food-grocery'] = {"width":"519","promoType":"wide","vertOffset":"-10","tabletAltText":null,"horizOffset":"-20","height":"535","altText":"Sweet Halloween treats","image":"https://images-na.ssl-images-amazon.com/images/G/01/img17/grocery/gateway/1066268_us_grocery_halloween_flyout_519x535._CB517294751_.png","tabletDestination":null,"tabletImage":null}; 
  _navbar.browsepromos['nav-sa-handmade'] = {"width":"519","promoType":"wide","vertOffset":"0","tabletAltText":null,"horizOffset":"-20","height":"535","altText":null,"image":"https://images-na.ssl-images-amazon.com/images/G/01/handmade/2017/Q3/Flyout/FO_GNO3_HM_Totes._CB516459292_.png","tabletDestination":null,"tabletImage":null}; 
- _navbar.browsepromos['nav-sa-home-garden-tools'] = {"width":"519","promoType":"wide","vertOffset":"-10","tabletAltText":null,"horizOffset":"-20","height":"545","altText":"Home Gift Guide","image":"https://images-na.ssl-images-amazon.com/images/G/01/img17/kitchen/events/otc/1055729_us_199_hgg_flyout_519x545_notebook._CB504738161_.png","tabletDestination":null,"tabletImage":null}; 
+ _navbar.browsepromos['nav-sa-home-garden-tools'] = {"width":"519","promoType":"wide","vertOffset":"-10","tabletAltText":null,"horizOffset":"-20","height":"535","altText":"Home and Garden","image":"https://images-na.ssl-images-amazon.com/images/G/01/img17/home/gateway/1045040_home_creativeprojects_flyout_us_519x545._CB510577388_.png","tabletDestination":null,"tabletImage":null}; 
  _navbar.browsepromos['nav-sa-home-services'] = {"width":"519","promoType":"wide","vertOffset":"-10","tabletAltText":null,"horizOffset":"-20","height":"522","altText":"Book a house cleaner for 2 or more hours on Amazon","image":"https://images-na.ssl-images-amazon.com/images/G/01/vas/gno/generalflyout/2017/VAS_2HoursHouseCleaning_GNO_Left._CB516200901_.png","tabletDestination":null,"tabletImage":null}; 
- _navbar.browsepromos['nav-sa-instant-video'] = {"width":"519","promoType":"wide","vertOffset":"-10","tabletAltText":null,"horizOffset":"-20","height":"535","altText":"Thursday Night Football","image":"https://images-na.ssl-images-amazon.com/images/G/01/digital/video/merch/2017_TNF/Week4/Web_Emails/US_TNF_WK4_GNO_Flyout_US_519x535_StreamLiveonPrimeVideo_SJO19_2._CB515267071_.jpg","tabletDestination":null,"tabletImage":null}; 
+ _navbar.browsepromos['nav-sa-instant-video'] = {"width":"519","promoType":"wide","vertOffset":"-10","tabletAltText":null,"horizOffset":"-20","height":"535","altText":"Transformers The Last Knight Available to Rent","image":"https://images-na.ssl-images-amazon.com/images/G/01/digital/video/merch/GNOflyout/519x522/flyout_Transformers_AVD-5170_rent_519x535._CB514893475_.png","tabletDestination":null,"tabletImage":null}; 
  _navbar.browsepromos['nav-sa-kindle-amazon-echo'] = {"width":"498","promoType":"wide","vertOffset":"-10","tabletAltText":null,"horizOffset":"-15","height":"557","altText":null,"image":"https://images-na.ssl-images-amazon.com/images/G/01/kindle/merch/2017/919357422668451/r-s-rk-gno._CB515484184_.png","tabletDestination":null,"tabletImage":null}; 
  _navbar.browsepromos['nav-sa-kindle-fire-tablet'] = {"width":"519","promoType":"wide","vertOffset":"-10","tabletAltText":null,"horizOffset":"-20","height":"535","altText":"Introducing All-New Fire HD 10 with Alexa hands-free $149.99","image":"https://images-na.ssl-images-amazon.com/images/G/01/kindle/merch/2017/354684131301/Fire10-tablets_GNO_519x535._CB516785351_.png","tabletDestination":null,"tabletImage":null}; 
  _navbar.browsepromos['nav-sa-kindle-reader'] = {"width":"519","promoType":"wide","vertOffset":"-10","tabletAltText":null,"horizOffset":"-20","height":"545","altText":"Kindle Oasis, unlike any Kindle you've ever held","image":"https://images-na.ssl-images-amazon.com/images/G/01/kindle/merch/2016/10566252/KW/update/kw_beach_flyout_us._CB526488395_.png","tabletDestination":null,"tabletImage":null}; 
- _navbar.browsepromos['nav-sa-movies-music-games'] = {"width":"519","promoType":"wide","vertOffset":"-10","tabletAltText":null,"horizOffset":"-20","height":"522","altText":"Explore Today's Deals in Movies & TV","image":"https://images-na.ssl-images-amazon.com/images/G/01/img15/dvd/flyout/dvd_retro-deals_flyout._CB305878470_.png","tabletDestination":null,"tabletImage":null}; 
+ _navbar.browsepromos['nav-sa-movies-music-games'] = {"width":"519","promoType":"wide","vertOffset":"-10","tabletAltText":null,"horizOffset":"-20","height":"517","altText":"Trade in your video games, consoles, and more for an Amazon.com Gift Card","image":"https://images-na.ssl-images-amazon.com/images/G/01/tradein/store/GNO._CB529324461_.png","tabletDestination":null,"tabletImage":null}; 
  _navbar.browsepromos['nav-sa-sports-outdoors-t1'] = {"width":"519","promoType":"wide","vertOffset":"-10","tabletAltText":null,"horizOffset":"-20","height":"545","altText":"Find big savings in the Fall Sportsman event","image":"https://images-na.ssl-images-amazon.com/images/G/01/img17/sports/gateway/1061674_us_sports_fall_sportsman_2017_traffic_drivers_flyout_519x545._CB518255875_.png","tabletDestination":null,"tabletImage":null}; 
- _navbar.browsepromos['nav-sa-toys-kids-baby'] = {"width":"519","promoType":"wide","vertOffset":"-10","tabletAltText":null,"horizOffset":"-20","height":"535","altText":"Kid's Halloween Store - Shop now","image":"https://images-na.ssl-images-amazon.com/images/G/01/img17/toys/halloween/1065105_us_toys_halloween_td_flyout_us_519x545._CB517719013_.png","tabletDestination":null,"tabletImage":null}; 
+ _navbar.browsepromos['nav-sa-toys-kids-baby'] = {"width":"519","promoType":"wide","vertOffset":"-10","tabletAltText":null,"horizOffset":"-20","height":"535","altText":"Preschool Fall Favorites - Shop now","image":"https://images-na.ssl-images-amazon.com/images/G/01/img17/toys/gateway/1066258_us_toys_preschool_fall_flyout_519x535._CB517827819_.png","tabletDestination":null,"tabletImage":null}; 
 
 
     window.$Nav && $Nav.declare('config.browsePromos', window._navbar.browsepromos);
@@ -1597,9 +1595,9 @@ window.navmet.MainEnd = new Date();
                   <div class="a-column a-span8 a-spacing-none">
                     <div class="s-first-column">
                       <h2 id="s-result-count" class="a-size-base a-spacing-small a-spacing-top-small a-text-normal">
-                        1 result for 
+                        Results for 
                         <span>
-                          <a class="a-link-normal a-color-base a-text-bold a-text-normal" href="/s/ref=sr_hi_1/137-5010733-1602114?rh=n%3A283155&amp;sort=relevanceexprank&amp;unfiltered=1&amp;ie=UTF8&amp;qid=1506595106">
+                          <a class="a-link-normal a-color-base a-text-bold a-text-normal" href="/s/ref=sr_hi_1/147-5490763-7326650?rh=n%3A283155&amp;sort=relevanceexprank&amp;unfiltered=1&amp;ie=UTF8&amp;qid=1506596801">
                             Books
                           </a>
                            : 
@@ -1613,10 +1611,10 @@ window.navmet.MainEnd = new Date();
                   <div class="a-column a-span4 a-text-right a-spacing-none a-span-last">
                     <div class="a-row a-spacing-micro a-spacing-top-micro">
                       <div class="s-last-column">
-                        <form id="searchSortForm" method="get" action="/s/ref=sr_st/137-5010733-1602114" class="s-inline-form a-spacing-none">
+                        <form id="searchSortForm" method="get" action="/s/ref=sr_st/147-5490763-7326650" class="s-inline-form a-spacing-none">
                           <input type="hidden" name="rh" value="n:283155,p_66:9780762436316"/>
                           <input type="hidden" name="unfiltered" value="1"/>
-                          <input type="hidden" name="qid" value="1506595106"/>
+                          <input type="hidden" name="qid" value="1506596801"/>
                           <span id="sort_by_text" class="a-size-base">
                             Sort by 
                           </span>
@@ -1641,7 +1639,7 @@ window.navmet.MainEnd = new Date();
                             </option>
                           </select>
                           <noscript>
-                            <input type="image" src="https://images-na.ssl-images-amazon.com/images/G/01/buttons/go-orange-trans._CB192189913_.gif" width="21" alt="Go" align="top" value="Go" height="21" border="0"/>
+                            <input type="image" src="" width="1" alt="Go" align="top" value="Go" height="1" border="0"/>
                           </noscript>
                         </form>
                       </div>
@@ -1671,7 +1669,7 @@ window.navmet.MainEnd = new Date();
                                 <div class="a-fixed-left-grid-col a-col-left" style="width:218px;margin-left:-218px;_margin-left:-109px;float:left;">
                                   <div class="a-row">
                                     <div aria-hidden="true" class="a-column a-span12 a-text-center">
-                                      <a class="a-link-normal a-text-normal" href="https://www.amazon.com/Mammoth-Book-Tattoos-Lal-Hardy/dp/076243631X/ref=sr_1_1/137-5010733-1602114?s=books&amp;ie=UTF8&amp;qid=1506595106&amp;sr=1-1">
+                                      <a class="a-link-normal a-text-normal" href="https://www.amazon.com/Mammoth-Book-Tattoos-Lal-Hardy/dp/076243631X/ref=sr_1_1/147-5490763-7326650?s=books&amp;ie=UTF8&amp;qid=1506596801&amp;sr=1-1">
                                         <img src="https://images-na.ssl-images-amazon.com/images/I/51DJMXuf2iL._AC_US218_.jpg" srcset="https://images-na.ssl-images-amazon.com/images/I/51DJMXuf2iL._AC_US218_.jpg 1x, https://images-na.ssl-images-amazon.com/images/I/51DJMXuf2iL._AC_US327_QL65_.jpg 1.5x, https://images-na.ssl-images-amazon.com/images/I/51DJMXuf2iL._AC_US436_QL65_.jpg 2x, https://images-na.ssl-images-amazon.com/images/I/51DJMXuf2iL._AC_US500_QL65_.jpg 2.2935x" width="218" height="218" alt="Product Details" class="s-access-image cfMarker" data-search-image-load=""/>
                                       </a>
                                       <div class="a-section a-spacing-none a-text-center">
@@ -1682,7 +1680,7 @@ window.navmet.MainEnd = new Date();
                                 <div class="a-fixed-left-grid-col a-col-right" style="padding-left:2%;*width:97.6%;float:left;">
                                   <div class="a-row a-spacing-small">
                                     <div class="a-row a-spacing-none">
-                                      <a class="a-link-normal s-access-detail-page  s-color-twister-title-link a-text-normal" title="The Mammoth Book of Tattoos" href="https://www.amazon.com/Mammoth-Book-Tattoos-Lal-Hardy/dp/076243631X/ref=sr_1_1/137-5010733-1602114?s=books&amp;ie=UTF8&amp;qid=1506595106&amp;sr=1-1">
+                                      <a class="a-link-normal s-access-detail-page  s-color-twister-title-link a-text-normal" title="The Mammoth Book of Tattoos" href="https://www.amazon.com/Mammoth-Book-Tattoos-Lal-Hardy/dp/076243631X/ref=sr_1_1/147-5490763-7326650?s=books&amp;ie=UTF8&amp;qid=1506596801&amp;sr=1-1">
                                         <h2 data-attribute="The Mammoth Book of Tattoos" data-max-rows="0" class="a-size-medium s-inline  s-access-title  a-text-normal">
                                           The Mammoth Book of Tattoos
                                         </h2>
@@ -1700,7 +1698,7 @@ window.navmet.MainEnd = new Date();
                                         by 
                                       </span>
                                       <span class="a-size-small a-color-secondary">
-                                        <a class="a-link-normal a-text-normal" href="/Lal-Hardy/e/B002KRJGEW/ref=sr_ntt_srch_lnk_1?qid=1506595106&amp;sr=1-1">
+                                        <a class="a-link-normal a-text-normal" href="/Lal-Hardy/e/B002KRJGEW/ref=sr_ntt_srch_lnk_1?qid=1506596801&amp;sr=1-1">
                                           Lal Hardy
                                         </a>
                                       </span>
@@ -1709,14 +1707,14 @@ window.navmet.MainEnd = new Date();
                                   <div class="a-row">
                                     <div class="a-column a-span7">
                                       <div class="a-row a-spacing-none">
-                                        <a class="a-link-normal a-text-normal" title="Paperback" href="https://www.amazon.com/Mammoth-Book-Tattoos-Lal-Hardy/dp/076243631X/ref=sr_1_1_twi_pap_1/137-5010733-1602114?s=books&amp;ie=UTF8&amp;qid=1506595106&amp;sr=1-1">
+                                        <a class="a-link-normal a-text-normal" title="Paperback" href="https://www.amazon.com/Mammoth-Book-Tattoos-Lal-Hardy/dp/076243631X/ref=sr_1_1_twi_pap_1/147-5490763-7326650?s=books&amp;ie=UTF8&amp;qid=1506596801&amp;sr=1-1">
                                           <h3 data-attribute="Paperback" data-max-rows="0" data-truncate-by-character="false" class="a-size-small s-inline  a-text-normal">
                                             Paperback
                                           </h3>
                                         </a>
                                       </div>
                                       <div class="a-row a-spacing-none">
-                                        <a class="a-link-normal a-text-normal" href="https://www.amazon.com/Mammoth-Book-Tattoos-Lal-Hardy/dp/076243631X/ref=sr_1_1/137-5010733-1602114?s=books&amp;ie=UTF8&amp;qid=1506595106&amp;sr=1-1">
+                                        <a class="a-link-normal a-text-normal" href="https://www.amazon.com/Mammoth-Book-Tattoos-Lal-Hardy/dp/076243631X/ref=sr_1_1/147-5490763-7326650?s=books&amp;ie=UTF8&amp;qid=1506596801&amp;sr=1-1">
                                           <span aria-label="$10.69" class="a-color-base sx-zero-spacing">
                                             <span class="sx-price sx-price-large">
                                               <sup class="sx-price-currency">
@@ -1764,7 +1762,7 @@ window.navmet.MainEnd = new Date();
                                           </span>
                                         </div>
                                         <div class="a-row a-spacing-none">
-                                          <a class="a-size-small a-link-normal a-text-normal" href="https://www.amazon.com/gp/offer-listing/076243631X/ref=sr_1_1_olp/137-5010733-1602114?s=books&amp;ie=UTF8&amp;qid=1506595106&amp;sr=1-1">
+                                          <a class="a-size-small a-link-normal a-text-normal" href="https://www.amazon.com/gp/offer-listing/076243631X/ref=sr_1_1_olp/147-5490763-7326650?s=books&amp;ie=UTF8&amp;qid=1506596801&amp;sr=1-1">
                                             <span class="a-color-secondary a-text-strike">
                                             </span>
                                             <span class="a-size-base a-color-base">
@@ -1782,7 +1780,7 @@ window.navmet.MainEnd = new Date();
                                         <span class="a-letter-space">
                                         </span>
                                       </span>
-                                      <a class="a-size-small a-link-normal a-text-normal" href="https://www.amazon.com/Mammoth-Book-Tattoos-Books-ebook/dp/B007TNPGAU/ref=sr_1_1_twi_kin_2/137-5010733-1602114?s=books&amp;ie=UTF8&amp;qid=1506595106&amp;sr=1-1">
+                                      <a class="a-size-small a-link-normal a-text-normal" href="https://www.amazon.com/Mammoth-Book-Tattoos-Books-ebook/dp/B007TNPGAU/ref=sr_1_1_twi_kin_2/147-5490763-7326650?s=books&amp;ie=UTF8&amp;qid=1506596801&amp;sr=1-1">
                                         Kindle Edition
                                       </a>
                                       <span class="a-size-small a-color-secondary">
@@ -1803,7 +1801,7 @@ window.navmet.MainEnd = new Date();
                                             </a>
                                           </span>
                                         </span>
-                                        <a class="a-size-small a-link-normal a-text-normal" href="https://www.amazon.com/Mammoth-Book-Tattoos-Lal-Hardy/dp/076243631X/ref=sr_1_1/137-5010733-1602114?s=books&amp;ie=UTF8&amp;qid=1506595106&amp;sr=1-1#customerReviews">
+                                        <a class="a-size-small a-link-normal a-text-normal" href="https://www.amazon.com/Mammoth-Book-Tattoos-Lal-Hardy/dp/076243631X/ref=sr_1_1/147-5490763-7326650?s=books&amp;ie=UTF8&amp;qid=1506596801&amp;sr=1-1#customerReviews">
                                           116
                                         </a>
                                       </div>
@@ -2058,10 +2056,10 @@ var iframeDoc;
 var readyCallGoogle;
 
 
-var a9_3psl_sessionId = "137-5010733-1602114";
+var a9_3psl_sessionId = "147-5490763-7326650";
 var a9_3psl_marketplace = "US";
 var a9_3psl_marketplaceId = "ATVPDKIKX0DER";
-var a9_3psl_requestId = "X8BCXF4R6467AW893R3S";
+var a9_3psl_requestId = "R38CX3JFRN5FQMGSX548";
 
   
 var a9_3psl_fVip = "https://fls-na.amazon.com";
@@ -2107,7 +2105,7 @@ var pageOptions = {
 var adblock1 = {
 	'container': 'sponsoredLinksContent',
 	'number': 4,
-	'clicktrackUrl': 'http://rd.a9.com/srv/redirect/?info=AEXlRqpKHUHmt8S7PB1FjrUj.YMaG7BDapC1W6amM7yFmu35jmk-wR6WHz3-RohsFhUranXbsujuQtj6asTIB0.3zMcjFTtEon2SIm8UH4Ja5XlVru1YPy8wK9tNYOO3BEsQ.a9hE9K75ZJEhOvuDBkDzFSldL2qMhYLGBqFo4Q3mRXJsXBWn7YK9Yp-SvGndsMk2a.RuFle-eE9q85IKaKElZCT2qY1dWBrch1Gi.6qFBrOg2oiGJQr.PblSYIFtHaY4nxATsFNoUL8cH96.8FJ0PwSB3WxOI1-FcTi7J9KDBxWqXJQnKeVmoStGkc1q63sNyfpkCYjCd3cdzuGznRSL3UIKX6AZw__&awt=1&s='
+	'clicktrackUrl': 'http://rd.a9.com/srv/redirect/?info=AL1gWKU4dGC0YCRKUuDOe6JEjlMZ1rlZ6.fpRfK8Ibe1HVSOAYlezWUdEMMLPg8ui1tSI62.cww3OSq6um0obYBnRwTcfWoqCbaMN52ZKUDaJZK63SAvaKluMRD-5.RQDxxgp.3DU13YH9b9IYF0v8ADqbqiF5UCTIbijDQWFd3r-cQSWcD6-odPus0tuybV.hrJEbSDfqHcIx8mjb2ALNozRFQDaFwZaIShlZzcHNpdBxhzXefRtJd05fnOYnQcAmZvSSS7VqSgzMsEfDGBD4J5rtkpCawTndqRof8zjj3iv9-47df.33KaMRbA9XyiFeX9MyVGecLmMZBvSvCz.UfN3ZD9xFQHhQ__&awt=1&s='
 };
 
 var handleSLSize = function(hSl) {
@@ -2124,9 +2122,9 @@ var handleLoadedSL = function(visUrls) {
   slEndTime = new Date().getTime();
   var getTime = slEndTime - slStartTime;
 
-  var requestId = "X8BCXF4R6467AW893R3S";
-  var requestTag = "qZJUlmIGI6FaX9As";
-  var sessionId = "137-5010733-1602114";
+  var requestId = "R38CX3JFRN5FQMGSX548";
+  var requestTag = "IquOanGBLwSv9knv";
+  var sessionId = "147-5490763-7326650";
   var marketplace = "US";
   var marketplaceId = "ATVPDKIKX0DER";
   var method = "Browse";
@@ -2273,7 +2271,7 @@ emitSLFeedbackForm = function(visUrls) {
       if (flag == 1) {
         // Make a request to the handler with new ads 
         $.post('/gp/product/aui_search_feedback_form_handler.html', {
-          'sid': '137-5010733-1602114',
+          'sid': '147-5490763-7326650',
           'jsonAds': escape(jsonAds)
         }, function (data) {
           $('#FeedbackFormDiv').html(data);
@@ -2306,12 +2304,12 @@ setTimeout(function () {
 					var browserHeight = $(window).height();
 					
 					// Make a request to the session cache update handler in Gurupa
-					$.post('/gp/product/sessionCacheUpdateHandler.html/137-5010733-1602114', 
+					$.post('/gp/product/sessionCacheUpdateHandler.html/147-5490763-7326650', 
 						 { 'sessionCacheUpdateFlag' : '1',
 						   'pageType'               : 'Search',
 						   'browserWidth'           : browserWidth,
 						   'browserHeight'          : browserHeight,
-						   'token'                  : "fVoboEDsYMjWCjzTN8sCOaLH020iy6rbkmYxppF6XQ0="
+						   'token'                  : "fVoboEDsYMjWCjzTN8sCOaLH020iy6rbPKlEI6fxNq8="
 						 },
 						 function(data) {
 						 	successFlag++;
@@ -2364,7 +2362,7 @@ setTimeout(function () {
                               </span>
                             </li>
                           </ul>
-                          <form id="sx-hms-response-form" method="post" action="/gp/search/hmsfeedback/ref=sr_hms_f/137-5010733-1602114" class="a-spacing-none">
+                          <form id="sx-hms-response-form" method="post" action="/gp/search/hmsfeedback/ref=sr_hms_f/147-5490763-7326650" class="a-spacing-none">
                             <div id="sx-hms-category-list" style="display: none">
                               <p class="a-spacing-top-small">
                                 <label for="sx-hms-categoy-dropdown" class="a-form-label">
@@ -2423,7 +2421,7 @@ setTimeout(function () {
                               <input type="hidden" name="operatingSystem" value="WINDOWS_7"/>
                               <input type="hidden" name="url" value="https://www.amazon.com/s?search-alias=stripbooks&amp;unfiltered=1&amp;field-keywords=&amp;field-author=&amp;field-title=&amp;field-isbn=9780762436316&amp;field-publisher=&amp;node=&amp;field-p_n_condition-type=&amp;p_n_feature_browse-bin=&amp;field-age_range=&amp;field-language=&amp;field-dateop=During&amp;field-datemod=&amp;field-dateyear=&amp;sort=relevanceexprank&amp;Adv-Srch-Books-Submit.x=30&amp;Adv-Srch-Books-Submit.y=15"/>
                               <input type="hidden" name="displayContainer" value="FIREFOX"/>
-                              <input type="hidden" name="queryId" value="1506595106"/>
+                              <input type="hidden" name="queryId" value="1506596801"/>
                               <input type="hidden" name="refinements" value="p_66=9780762436316 n=Books n=Category "/>
                               <input type="hidden" name="marketplaceId" value="1"/>
                               <input type="hidden" name="node" value="283155"/>
@@ -2461,7 +2459,7 @@ setTimeout(function () {
                                   </span>
                                   <span class="a-button a-button-primary">
                                     <span class="a-button-inner">
-                                      <a href="/gp/help/contact-us/general-questions.html/ref=sr_hms_cs/137-5010733-1602114?browse_node_id=468556&amp;ie=UTF8&amp;qid=1506595106" class="a-button-text" role="button">
+                                      <a href="/gp/help/contact-us/general-questions.html/ref=sr_hms_cs/147-5490763-7326650?browse_node_id=468556&amp;ie=UTF8&amp;qid=1506596801" class="a-button-text" role="button">
                                         contact us
                                       </a>
                                     </span>
@@ -2485,7 +2483,7 @@ setTimeout(function () {
                         <div class="a-row">
                           <span>
                             If you need help or have a question for Customer Service, please 
-                            <a class="a-link-normal a-text-normal" href="/gp/help/customer/display.html/ref=sr_hms_help/137-5010733-1602114?nodeId=468556&amp;ie=UTF8&amp;qid=1506595106">
+                            <a class="a-link-normal a-text-normal" href="/gp/help/customer/display.html/ref=sr_hms_help/147-5490763-7326650?nodeId=468556&amp;ie=UTF8&amp;qid=1506596801">
                               visit the Help Section
                             </a>
                             .
@@ -2522,7 +2520,7 @@ setTimeout(function () {
                     <div aria-live="polite" class="a-row a-expander-container a-expander-extend-container">
                       <li>
                         <span class="a-list-item">
-                          <a class="a-link-normal s-ref-text-link" href="/s/ref=sr_nr_n_0/137-5010733-1602114?fst=as%3Aoff&amp;rh=n%3A283155%2Cp_66%3A9780762436316%2Cn%3A%211000%2Cn%3A1&amp;bbn=1000&amp;sort=relevanceexprank&amp;unfiltered=1&amp;ie=UTF8&amp;qid=1506595106&amp;rnid=1000">
+                          <a class="a-link-normal s-ref-text-link" href="/s/ref=sr_nr_n_0/147-5490763-7326650?fst=as%3Aoff&amp;rh=n%3A283155%2Cp_66%3A9780762436316%2Cn%3A%211000%2Cn%3A1&amp;bbn=1000&amp;sort=relevanceexprank&amp;unfiltered=1&amp;ie=UTF8&amp;qid=1506596801&amp;rnid=1000">
                             <span class="a-size-small a-color-base">
                               Arts &amp; Photography
                             </span>
@@ -2531,7 +2529,7 @@ setTimeout(function () {
                       </li>
                       <li>
                         <span class="a-list-item">
-                          <a class="a-link-normal s-ref-text-link" href="/s/ref=sr_nr_n_1/137-5010733-1602114?fst=as%3Aoff&amp;rh=n%3A283155%2Cp_66%3A9780762436316%2Cn%3A%211000%2Cn%3A86&amp;bbn=1000&amp;sort=relevanceexprank&amp;unfiltered=1&amp;ie=UTF8&amp;qid=1506595106&amp;rnid=1000">
+                          <a class="a-link-normal s-ref-text-link" href="/s/ref=sr_nr_n_1/147-5490763-7326650?fst=as%3Aoff&amp;rh=n%3A283155%2Cp_66%3A9780762436316%2Cn%3A%211000%2Cn%3A86&amp;bbn=1000&amp;sort=relevanceexprank&amp;unfiltered=1&amp;ie=UTF8&amp;qid=1506596801&amp;rnid=1000">
                             <span class="a-size-small a-color-base">
                               Humor &amp; Entertainment
                             </span>
@@ -2540,7 +2538,7 @@ setTimeout(function () {
                       </li>
                       <li>
                         <span class="a-list-item">
-                          <a class="a-link-normal s-ref-text-link" href="/s/ref=sr_nr_n_2/137-5010733-1602114?fst=as%3Aoff&amp;rh=n%3A283155%2Cp_66%3A9780762436316%2Cn%3A%211000%2Cn%3A3377866011&amp;bbn=1000&amp;sort=relevanceexprank&amp;unfiltered=1&amp;ie=UTF8&amp;qid=1506595106&amp;rnid=1000">
+                          <a class="a-link-normal s-ref-text-link" href="/s/ref=sr_nr_n_2/147-5490763-7326650?fst=as%3Aoff&amp;rh=n%3A283155%2Cp_66%3A9780762436316%2Cn%3A%211000%2Cn%3A3377866011&amp;bbn=1000&amp;sort=relevanceexprank&amp;unfiltered=1&amp;ie=UTF8&amp;qid=1506596801&amp;rnid=1000">
                             <span class="a-size-small a-color-base">
                               Politics &amp; Social Sciences
                             </span>
@@ -2556,7 +2554,7 @@ setTimeout(function () {
                 </h3>
                 <h4 class="a-size-small a-spacing-mini a-color-base a-text-bold">
                   International Shipping
-                  <a class="s-ref-text-link" href="/gp/help/customer/display.html/ref=sr_nr_p_n_shipping_option-_whatsthis/137-5010733-1602114?nodeId=201910800&amp;pop-up=1&amp;ie=UTF8&amp;qid=1506595106" target="WhatsThisHelp" onclick="return amz_js_PopWin(this.href,'WhatsThisHelp','width=800,height=600,resizable=1,scrollbars=1,toolbarr=1,status=1');">
+                  <a class="s-ref-text-link" href="/gp/help/customer/display.html/ref=sr_nr_p_n_shipping_option-_whatsthis/147-5490763-7326650?nodeId=201910800&amp;pop-up=1&amp;ie=UTF8&amp;qid=1506596801" target="WhatsThisHelp" onclick="return amz_js_PopWin(this.href,'WhatsThisHelp','width=800,height=600,resizable=1,scrollbars=1,toolbarr=1,status=1');">
                     <span class="a-color-base s-text-size-micro">
                       (What's this?)
                     </span>
@@ -2566,7 +2564,7 @@ setTimeout(function () {
                   <div aria-live="polite" class="a-row a-expander-container a-expander-extend-container">
                     <li>
                       <span class="a-list-item">
-                        <span class="a-declarative" data-action="s-ref-selected" data-s-ref-selected="{&quot;url&quot;:&quot;/s/ref=sr_nr_p_n_shipping_option-_0/137-5010733-1602114?fst=as%3Aoff&amp;amp;rh=n%3A283155%2Cp_66%3A9780762436316%2Cp_n_shipping_option-bin%3A3242350011&amp;amp;bbn=283155&amp;amp;sort=relevanceexprank&amp;amp;unfiltered=1&amp;amp;ie=UTF8&amp;amp;qid=1506595106&amp;amp;rnid=2944662011&quot;}">
+                        <span class="a-declarative" data-action="s-ref-selected" data-s-ref-selected="{&quot;url&quot;:&quot;/s/ref=sr_nr_p_n_shipping_option-_0/147-5490763-7326650?fst=as%3Aoff&amp;amp;rh=n%3A283155%2Cp_66%3A9780762436316%2Cp_n_shipping_option-bin%3A3242350011&amp;amp;bbn=283155&amp;amp;sort=relevanceexprank&amp;amp;unfiltered=1&amp;amp;ie=UTF8&amp;amp;qid=1506596801&amp;amp;rnid=2944662011&quot;}">
                           <div data-a-input-name="s-ref-checkbox-3242350011" class="a-checkbox s-ref-link-cursor a-spacing-none">
                             <label>
                               <input type="checkbox" name="s-ref-checkbox-3242350011" value="false"/>
@@ -2591,7 +2589,7 @@ setTimeout(function () {
                   <div aria-live="polite" class="a-row a-expander-container a-expander-extend-container">
                     <li>
                       <span class="a-list-item">
-                        <span class="a-declarative" data-action="s-ref-selected" data-s-ref-selected="{&quot;url&quot;:&quot;/s/ref=sr_nr_p_n_feature_nine_bro_0/137-5010733-1602114?fst=as%3Aoff&amp;amp;rh=n%3A283155%2Cp_66%3A9780762436316%2Cp_n_feature_nine_browse-bin%3A3291437011&amp;amp;bbn=283155&amp;amp;sort=relevanceexprank&amp;amp;unfiltered=1&amp;amp;ie=UTF8&amp;amp;qid=1506595106&amp;amp;rnid=3291435011&quot;}">
+                        <span class="a-declarative" data-action="s-ref-selected" data-s-ref-selected="{&quot;url&quot;:&quot;/s/ref=sr_nr_p_n_feature_nine_bro_0/147-5490763-7326650?fst=as%3Aoff&amp;amp;rh=n%3A283155%2Cp_66%3A9780762436316%2Cp_n_feature_nine_browse-bin%3A3291437011&amp;amp;bbn=283155&amp;amp;sort=relevanceexprank&amp;amp;unfiltered=1&amp;amp;ie=UTF8&amp;amp;qid=1506596801&amp;amp;rnid=3291435011&quot;}">
                           <div data-a-input-name="s-ref-checkbox-3291437011" class="a-checkbox s-ref-link-cursor a-spacing-none">
                             <label>
                               <input type="checkbox" name="s-ref-checkbox-3291437011" value="false"/>
@@ -2616,7 +2614,7 @@ setTimeout(function () {
                   <div aria-live="polite" class="a-row a-expander-container a-expander-extend-container">
                     <li>
                       <span class="a-list-item">
-                        <span class="a-declarative" data-action="s-ref-selected" data-s-ref-selected="{&quot;url&quot;:&quot;/s/ref=sr_nr_p_85_0/137-5010733-1602114?fst=as%3Aoff&amp;amp;rh=n%3A283155%2Cp_66%3A9780762436316%2Cp_85%3A2470955011&amp;amp;bbn=283155&amp;amp;sort=relevanceexprank&amp;amp;unfiltered=1&amp;amp;ie=UTF8&amp;amp;qid=1506595106&amp;amp;rnid=2470954011&quot;}">
+                        <span class="a-declarative" data-action="s-ref-selected" data-s-ref-selected="{&quot;url&quot;:&quot;/s/ref=sr_nr_p_85_0/147-5490763-7326650?fst=as%3Aoff&amp;amp;rh=n%3A283155%2Cp_66%3A9780762436316%2Cp_85%3A2470955011&amp;amp;bbn=283155&amp;amp;sort=relevanceexprank&amp;amp;unfiltered=1&amp;amp;ie=UTF8&amp;amp;qid=1506596801&amp;amp;rnid=2470954011&quot;}">
                           <div data-a-input-name="s-ref-checkbox-2470955011" class="a-checkbox s-ref-link-cursor a-spacing-none">
                             <label>
                               <input type="checkbox" name="s-ref-checkbox-2470955011" value="false"/>
@@ -2640,7 +2638,7 @@ setTimeout(function () {
                   <div aria-live="polite" class="a-row a-expander-container a-expander-extend-container">
                     <li>
                       <span class="a-list-item">
-                        <span class="a-declarative" data-action="s-ref-selected" data-s-ref-selected="{&quot;url&quot;:&quot;/s/ref=sr_nr_p_76_0/137-5010733-1602114?fst=as%3Aoff&amp;amp;rh=n%3A283155%2Cp_66%3A9780762436316%2Cp_76%3A1250218011&amp;amp;bbn=283155&amp;amp;sort=relevanceexprank&amp;amp;unfiltered=1&amp;amp;ie=UTF8&amp;amp;qid=1506595106&amp;amp;rnid=1250216011&quot;}">
+                        <span class="a-declarative" data-action="s-ref-selected" data-s-ref-selected="{&quot;url&quot;:&quot;/s/ref=sr_nr_p_76_0/147-5490763-7326650?fst=as%3Aoff&amp;amp;rh=n%3A283155%2Cp_66%3A9780762436316%2Cp_76%3A1250218011&amp;amp;bbn=283155&amp;amp;sort=relevanceexprank&amp;amp;unfiltered=1&amp;amp;ie=UTF8&amp;amp;qid=1506596801&amp;amp;rnid=1250216011&quot;}">
                           <div data-a-input-name="s-ref-checkbox-1250218011" class="a-checkbox s-ref-link-cursor a-spacing-none">
                             <label>
                               <input type="checkbox" name="s-ref-checkbox-1250218011" value="false"/>
@@ -2677,7 +2675,7 @@ setTimeout(function () {
                     </li>
                     <li>
                       <span class="a-list-item">
-                        <a class="a-link-normal s-ref-text-link" href="/s/ref=sr_nr_p_72_0/137-5010733-1602114?fst=as%3Aoff&amp;rh=n%3A283155%2Cp_66%3A9780762436316%2Cp_72%3A1250222011&amp;bbn=283155&amp;sort=relevanceexprank&amp;unfiltered=1&amp;ie=UTF8&amp;qid=1506595106&amp;rnid=1250219011">
+                        <a class="a-link-normal s-ref-text-link" href="/s/ref=sr_nr_p_72_0/147-5490763-7326650?fst=as%3Aoff&amp;rh=n%3A283155%2Cp_66%3A9780762436316%2Cp_72%3A1250222011&amp;bbn=283155&amp;sort=relevanceexprank&amp;unfiltered=1&amp;ie=UTF8&amp;qid=1506596801&amp;rnid=1250219011">
                           <i class="a-icon a-icon-star-medium a-star-medium-3">
                             <span class="a-icon-alt">
                               3 Stars &amp; Up
@@ -2691,7 +2689,7 @@ setTimeout(function () {
                     </li>
                     <li>
                       <span class="a-list-item">
-                        <a class="a-link-normal s-ref-text-link" href="/s/ref=sr_nr_p_72_1/137-5010733-1602114?fst=as%3Aoff&amp;rh=n%3A283155%2Cp_66%3A9780762436316%2Cp_72%3A1250223011&amp;bbn=283155&amp;sort=relevanceexprank&amp;unfiltered=1&amp;ie=UTF8&amp;qid=1506595106&amp;rnid=1250219011">
+                        <a class="a-link-normal s-ref-text-link" href="/s/ref=sr_nr_p_72_1/147-5490763-7326650?fst=as%3Aoff&amp;rh=n%3A283155%2Cp_66%3A9780762436316%2Cp_72%3A1250223011&amp;bbn=283155&amp;sort=relevanceexprank&amp;unfiltered=1&amp;ie=UTF8&amp;qid=1506596801&amp;rnid=1250219011">
                           <i class="a-icon a-icon-star-medium a-star-medium-2">
                             <span class="a-icon-alt">
                               2 Stars &amp; Up
@@ -2705,7 +2703,7 @@ setTimeout(function () {
                     </li>
                     <li>
                       <span class="a-list-item">
-                        <a class="a-link-normal s-ref-text-link" href="/s/ref=sr_nr_p_72_2/137-5010733-1602114?fst=as%3Aoff&amp;rh=n%3A283155%2Cp_66%3A9780762436316%2Cp_72%3A1250224011&amp;bbn=283155&amp;sort=relevanceexprank&amp;unfiltered=1&amp;ie=UTF8&amp;qid=1506595106&amp;rnid=1250219011">
+                        <a class="a-link-normal s-ref-text-link" href="/s/ref=sr_nr_p_72_2/147-5490763-7326650?fst=as%3Aoff&amp;rh=n%3A283155%2Cp_66%3A9780762436316%2Cp_72%3A1250224011&amp;bbn=283155&amp;sort=relevanceexprank&amp;unfiltered=1&amp;ie=UTF8&amp;qid=1506596801&amp;rnid=1250219011">
                           <i class="a-icon a-icon-star-medium a-star-medium-1">
                             <span class="a-icon-alt">
                               1 Star &amp; Up
@@ -2726,7 +2724,7 @@ setTimeout(function () {
                   <div aria-live="polite" class="a-row a-expander-container a-expander-extend-container">
                     <li>
                       <span class="a-list-item">
-                        <a class="a-link-normal s-ref-text-link" href="/s/ref=sr_nr_p_n_condition-type_0/137-5010733-1602114?fst=as%3Aoff&amp;rh=n%3A283155%2Cp_66%3A9780762436316%2Cp_n_condition-type%3A1294423011&amp;bbn=283155&amp;sort=relevanceexprank&amp;unfiltered=1&amp;ie=UTF8&amp;qid=1506595106&amp;rnid=1294421011">
+                        <a class="a-link-normal s-ref-text-link" href="/s/ref=sr_nr_p_n_condition-type_0/147-5490763-7326650?fst=as%3Aoff&amp;rh=n%3A283155%2Cp_66%3A9780762436316%2Cp_n_condition-type%3A1294423011&amp;bbn=283155&amp;sort=relevanceexprank&amp;unfiltered=1&amp;ie=UTF8&amp;qid=1506596801&amp;rnid=1294421011">
                           <span class="a-size-small a-color-base">
                             New
                           </span>
@@ -2735,7 +2733,7 @@ setTimeout(function () {
                     </li>
                     <li>
                       <span class="a-list-item">
-                        <a class="a-link-normal s-ref-text-link" href="/s/ref=sr_nr_p_n_condition-type_1/137-5010733-1602114?fst=as%3Aoff&amp;rh=n%3A283155%2Cp_66%3A9780762436316%2Cp_n_condition-type%3A1294425011&amp;bbn=283155&amp;sort=relevanceexprank&amp;unfiltered=1&amp;ie=UTF8&amp;qid=1506595106&amp;rnid=1294421011">
+                        <a class="a-link-normal s-ref-text-link" href="/s/ref=sr_nr_p_n_condition-type_1/147-5490763-7326650?fst=as%3Aoff&amp;rh=n%3A283155%2Cp_66%3A9780762436316%2Cp_n_condition-type%3A1294425011&amp;bbn=283155&amp;sort=relevanceexprank&amp;unfiltered=1&amp;ie=UTF8&amp;qid=1506596801&amp;rnid=1294421011">
                           <span class="a-size-small a-color-base">
                             Used
                           </span>
@@ -2751,7 +2749,7 @@ setTimeout(function () {
                   <div aria-live="polite" class="a-row a-expander-container a-expander-extend-container">
                     <li>
                       <span class="a-list-item">
-                        <span class="a-declarative" data-action="s-ref-selected" data-s-ref-selected="{&quot;url&quot;:&quot;/s/ref=sr_nr_p_n_availability_1/137-5010733-1602114?rh=n%3A283155%2Cp_66%3A9780762436316%2Cp_n_availability%3A2245265011&amp;amp;bbn=283155&amp;amp;sort=relevanceexprank&amp;amp;unfiltered=1&amp;amp;ie=UTF8&amp;amp;qid=1506595106&quot;}">
+                        <span class="a-declarative" data-action="s-ref-selected" data-s-ref-selected="{&quot;url&quot;:&quot;/s/ref=sr_nr_p_n_availability_1/147-5490763-7326650?rh=n%3A283155%2Cp_66%3A9780762436316%2Cp_n_availability%3A2245265011&amp;amp;bbn=283155&amp;amp;sort=relevanceexprank&amp;amp;unfiltered=1&amp;amp;ie=UTF8&amp;amp;qid=1506596801&quot;}">
                           <div data-a-input-name="s-ref-checkbox-2245266011" class="a-checkbox s-ref-link-cursor a-spacing-none">
                             <label>
                               <input type="checkbox" name="s-ref-checkbox-2245266011" value="true" checked=""/>
@@ -2826,9 +2824,9 @@ amzn.sx.utils.jsDepMgr.when("jQuery", "RhsVisibilityNext-hide", function($) {
                 <h2 id="s-result-count" class="a-size-base a-text-normal"><b>&nbsp;</b>
                     </h2></div>
         </div><div class="a-column a-span4 a-text-right a-spacing-none a-span-last"><div class="a-row a-spacing-micro a-spacing-top-micro"><div class="s-last-column">
-                    <form id="searchSortForm" method="get" action="/s/ref=sr_st/137-5010733-1602114" class="s-inline-form a-spacing-none"><input type="hidden" name="rh" value="n:283155,p_66:9780762436316" />
+                    <form id="searchSortForm" method="get" action="/s/ref=sr_st/147-5490763-7326650" class="s-inline-form a-spacing-none"><input type="hidden" name="rh" value="n:283155,p_66:9780762436316" />
                 <input type="hidden" name="unfiltered" value="1" />
-                <input type="hidden" name="qid" value="1506595106" />
+                <input type="hidden" name="qid" value="1506596801" />
                 <span id="sort_by_text" class="a-size-base">Sort by&nbsp;</span><select class="a-spacing-top-mini" style="vertical-align: baseline;" name="sort" id="sort" onchange="this.form.submit();" aria-labelledby="sort_by_text">
                     <option value="featured-rank">Featured</option>
                                     <option value="price-asc-rank">Price: Low to High</option>
@@ -2837,7 +2835,7 @@ amzn.sx.utils.jsDepMgr.when("jQuery", "RhsVisibilityNext-hide", function($) {
                                     <option value="date-desc-rank">Publication Date</option>
                                     <option value="review-count-rank">Most reviews</option>
                                     </select>
-                <noscript><input type="image" src="https://images-na.ssl-images-amazon.com/images/G/01/buttons/go-orange-trans._CB192189913_.gif"  width="21" alt="Go" align="top" value="Go" height="21" border="0" /></noscript>
+                <noscript><input type="image" src=""  width="1" alt="Go" align="top" value="Go" height="1" border="0" /></noscript>
             </form></div>
             </div></div></div></div>
     -->              </div>
@@ -2901,7 +2899,7 @@ amzn.sx.utils.jsDepMgr.when("jQuery", "RhsVisibilityNext-hide", function($) {
                 There's a problem loading this menu right now.
               </p>
               <p class="nav_p">
-                <a href="/gp/prime/ref=nav_prime_ajax_err/137-5010733-1602114" class="nav_a">
+                <a href="/gp/prime/ref=nav_prime_ajax_err/147-5490763-7326650" class="nav_a">
                   Learn more about Amazon Prime.
                 </a>
               </p>
@@ -2946,7 +2944,7 @@ amzn.sx.utils.jsDepMgr.when("jQuery", "RhsVisibilityNext-hide", function($) {
               
       &gt;
       
-              <a class="nav-npt-a" href="/gp/prime/ref=nav_tooltip_redirect/137-5010733-1602114">
+              <a class="nav-npt-a" href="/gp/prime/ref=nav_tooltip_redirect/147-5490763-7326650">
                 Get started
               </a>
             </div>
@@ -2995,7 +2993,7 @@ window.$Nav && $Nav.declare('config.prefetch',function() {
   window.$Nav && $Nav.when('$', 'page.ready').run('[FreeSearchTraffic]MXMarketplaceRedirectOverlay',function($) {
     $.ajax({
       type: 'POST',
-      url: '/gp/redirection/mexico.html/137-5010733-1602114',
+      url: '/gp/redirection/mexico.html/147-5490763-7326650',
       data: {
         path: '/gp/search/',
         queryString: '?ie=UTF8\u0026field-language=\u0026field-title=\u0026Adv-Srch-Books-Submit.y=15\u0026node=\u0026field-dateyear=\u0026field-publisher=\u0026sort=relevanceexprank\u0026p%5Fn%5Ffeature%5Fbrowse-bin=\u0026search-alias=stripbooks\u0026field-isbn=9780762436316\u0026unfiltered=1\u0026field-p%5Fn%5Fcondition-type=\u0026field-age%5Frange=\u0026Adv-Srch-Books-Submit.x=30\u0026field-datemod=\u0026field-dateop=During\u0026field-keywords=\u0026field-author=',
@@ -3017,7 +3015,7 @@ window.$Nav && $Nav.declare('config.prefetch',function() {
         </form>
         <script type="a-state" data-a-state="{&quot;key&quot;:&quot;rw-dynamic-modal-bootstrap&quot;}">
 //<![CDATA[
-{"origSessionId":"137-5010733-1602114","subPageType":null,"pageType":"Search","ASIN":null,"path":"/gp/search/","isAUI":"1"}
+{"origSessionId":"147-5490763-7326650","subPageType":null,"pageType":"Search","ASIN":null,"path":"/gp/search/","isAUI":"1"}
 //]]>
         </script>
         <script>
@@ -3156,7 +3154,7 @@ window.$Nav && $Nav.declare('config.prefetch',function() {
 //<![CDATA[
 
   amzn.sx.utils.jsDepMgr.when('jQuery', 'search-trackingInfo-init', function($) {
-    $.pageContext = {"isUnsupportedRequest":true,"isApplicationFailure":false,"rid":"X8BCXF4R6467AW893R3S","qid":"1506595106","pageStructure":"results","pageApp":"gp\u002Fsearch","baseRH":"n%3A283155%2Cp_66%3A9780762436316","browseLadder":"n%3A283155","node":"283155","searchAlias":"stripbooks","searchAliasDisplayName":"Books","csrfToken":"gE4ypwFLPa32UETeyyRNrfKrODcxb8iw61kT4XsAAAAJAAAAAFnM0SJyYXcAAAAA","searchSkeletonKey":"results--searchTemplate listLayout so_us_en--left-nav--shopping-engine","pageType":"Search","subPageType":"SASLeafSingleSearch","store":"books","pageTitle":"Amazon.com: 9780762436316: Books","metaKeywords":"9780762436316, Books, Amazon.com","metaDescription":"Online shopping from a great selection at Books Store.","rhsSuppressed":"rhs"};
+    $.pageContext = {"isUnsupportedRequest":true,"isApplicationFailure":false,"rid":"R38CX3JFRN5FQMGSX548","qid":"1506596801","pageStructure":"results","pageApp":"gp\u002Fsearch","baseRH":"n%3A283155%2Cp_66%3A9780762436316","browseLadder":"n%3A283155","node":"283155","searchAlias":"stripbooks","searchAliasDisplayName":"Books","csrfToken":"gKosT69LT3xyzZ3T8Ed\u002F7hgUYqh9ITgAiXwtlkgAAAAJAAAAAFnM18FyYXcAAAAA","searchSkeletonKey":"results--searchTemplate listLayout so_us_en--left-nav--shopping-engine","pageType":"Search","subPageType":"SASLeafSingleSearch","store":"books","pageTitle":"Amazon.com: 9780762436316: Books","metaKeywords":"9780762436316, Books, Amazon.com","metaDescription":"Online shopping from a great selection at Books Store.","rhsSuppressed":"rhs"};
   });
 
 //]]>
@@ -3214,7 +3212,7 @@ window.$Nav && $Nav.declare('config.prefetch',function() {
           "phEventQueueing" : 1,
           
           "intReq" : 0,
-          "initRid" :'X8BCXF4R6467AW893R3S',
+          "initRid" :'R38CX3JFRN5FQMGSX548',
           "atfTimeout" : 12000,
           "clientLoggingEnabled" : 0,
           "defaultSort" : '',
@@ -3253,7 +3251,7 @@ window.$Nav && $Nav.declare('config.prefetch',function() {
 //<![CDATA[
 
 P.when('A', 'search-page-utilities', 'search-csl', 'a-popover', 'ready').execute('sx:aps-deep-pagination-please-refine-prompt:outer', function(A, spUtils, csl, popover) {
-    csl.init('Search', 'X8BCXF4R6467AW893R3S');
+    csl.init('Search', 'R38CX3JFRN5FQMGSX548');
 
     var $ = A.$, cnt = 0;
     function executeApsDeepPaginationPleaseRefinePrompt() {
@@ -3286,7 +3284,7 @@ P.when('A', 'search-page-utilities', 'search-csl', 'a-popover', 'ready').execute
 
 P.when('jQuery', 'search-page-utilities', 'search-csl', 'ready').execute('sx:refined-search-deep-pagination-try-aps-prompt:outer', function($, spUtils, csl) {
 $Nav.when('nav.createFlyout').run('sx:refined-search-deep-pagination-try-aps-prompt:inner', function(createFlyout) {
-    csl.init('Search', 'X8BCXF4R6467AW893R3S');
+    csl.init('Search', 'R38CX3JFRN5FQMGSX548');
 
     var cnt = 0;
     function executeRefinedSearchDeepPaginationTryApsPrompt() {
@@ -3327,12 +3325,12 @@ $Nav.when('nav.createFlyout').run('sx:refined-search-deep-pagination-try-aps-pro
     A.preload('https://images-na.ssl-images-amazon.com/images/I/61bL%2BpJQTLL._RC|31uTL6-TJHL.css,21GOrGwAFTL.css,412U7OlU5-L.css,21xKLiG6uEL.css,21thLxrpr2L.css,31MyzjXZJnL.css,21lZCUEsYiL.css,31q9b4Bb2AL.css,21AfeXszZhL.css,31347dD3CTL.css,11Cl9u2SlSL.css,01NW8VTUeVL.css,01JOvs9kD8L.css,31j4n5vuY7L.css,01MMsHBol-L.css_.css?AUIClients/USHardlinesDetailPageMetaAssetVariable#us.114039-C.94099-T1.102038-T1.119605-T1.108941-T1.98916-T1.107819-T1');
     A.preload('https://images-na.ssl-images-amazon.com/images/I/11X27kXxOsL.js?AUIClients/DetailPageOffersDPv2Assets');
     A.preload('https://images-na.ssl-images-amazon.com/images/I/31-iBjiv47L.css?AUIClients/DetailPageOffersDPv2Assets');
-    A.preload('https://images-na.ssl-images-amazon.com/images/I/31vOyNnYYfL._RC|214q28gHRFL.js,212NwKmSvIL.js,11RNLL-1MVL.js,51fj5Oo9KxL.js,21-QFBTP--L.js,51gaalU7sYL.js,31BKqItPgUL.js,01qibqOZmlL.js,01OWDwbYUhL.js,41Ub4UeWJAL.js,01fTOcPOZgL.js,016DBHJkIYL.js,01sNt4sDhdL.js,81Y7BD3UuhL.js,21Wa8-ICvhL.js,41YEXnxcB8L.js,01LHJt5PiyL.js,01Gtn2Z7G1L.js,31C7lSVrNKL.js,21vaUH6OP0L.js,018M+a7tSFL.js,31Pykj5JhNL.js,01UujNMpLSL.js,11NHZnHlFmL.js,11WXTLsXIfL.js,11+POrInZPL.js,01X2zigX4kL.js,01QIokpOpzL.js,01nGs5dr+NL.js,01VBVf7Xt-L.js,81jRu0cBEpL.js_.js?AUIClients/USSoftlinesDetailPageMetaAsset_AMAZON_CUSTOM_ASSETS_MIGRATION_METAASSETS#desktop.us.118687-T1.70086-T1.109732-C.111960-T1.90716-T1.53691-T1.97137-T1.119605-T1.99301-T1.90283-T1');
-    A.preload('https://images-na.ssl-images-amazon.com/images/I/41i2qjntsOL._RC|41kk+BrwEDL.css,11zFhuTDFqL.css,31uTL6-TJHL.css,21GOrGwAFTL.css,01ekIXTj5kL.css,11oOVW2SqmL.css,01OT3mZ3tNL.css,41SPGpKPIoL.css,21lr10GI3YL.css,01bQbKG2BJL.css,010uqF0UmhL.css,01KeIGNrFnL.css,01hvfEvfPgL.css,11zlxLNA7DL.css,31DJFjtqQ7L.css,01GT2VH57dL.css,21lNW82MJSL.css,01QLwk8mu6L.css,014Z+MbaRaL.css,016xTzXJLfL.css,01ZGR4PDSTL.css,018mGORJ7tL.css,01NW8VTUeVL.css,01rgQ3jqo7L.css,01JOvs9kD8L.css,41hk1RHUZnL.css_.css?AUIClients/USSoftlinesDetailPageMetaAsset_AMAZON_CUSTOM_ASSETS_MIGRATION_METAASSETS#desktop.us.118687-T1.114039-C.102038-T1.118886-T1.119605-T1.110830-T1.90283-T1');
-    A.preload('https://images-na.ssl-images-amazon.com/images/I/31vOyNnYYfL._RC|212NwKmSvIL.js,11RNLL-1MVL.js,01OWDwbYUhL.js,41Ub4UeWJAL.js,51fj5Oo9KxL.js,214q28gHRFL.js,21WlZ36dzZL.js,01sNt4sDhdL.js,011CHrwfLOL.js,81Y7BD3UuhL.js,41YEXnxcB8L.js,01LHJt5PiyL.js,01Gtn2Z7G1L.js,31C7lSVrNKL.js,21vaUH6OP0L.js,11NHZnHlFmL.js,01X2zigX4kL.js,211BXMMEISL.js,31RhPrhvU7L.js,01QIokpOpzL.js,01nGs5dr+NL.js,11bSWGoT6+L.js,31I-BifbuzL.js,31Xvy6018xL.js,11X27kXxOsL.js,11ZQs34gE7L.js,01VBVf7Xt-L.js,81jRu0cBEpL.js_.js?AUIClients/USMediaDetailPageMetaAsset_AMAZON_CUSTOM_ASSETS_MIGRATION_METAASSETS#desktop.us.118687-T1.113832-T1.70086-T1.109732-C.53691-T1.97137-T1.119605-T1.99301-T1');
-    A.preload('https://images-na.ssl-images-amazon.com/images/I/51-LYPhMJeL._RC|11zFhuTDFqL.css,21GOrGwAFTL.css,01ekIXTj5kL.css,01bQbKG2BJL.css,010uqF0UmhL.css,11oOVW2SqmL.css,31uTL6-TJHL.css,11MXghh1eBL.css,01hvfEvfPgL.css,31DJFjtqQ7L.css,01GT2VH57dL.css,21lNW82MJSL.css,016xTzXJLfL.css,01NW8VTUeVL.css,01rgQ3jqo7L.css,21jNhNxHFBL.css,01JOvs9kD8L.css,01FlII1u-ZL.css,21xKLiG6uEL.css,21thLxrpr2L.css,31-iBjiv47L.css,21PjfsP9YvL.css,41hk1RHUZnL.css_.css?AUIClients/USMediaDetailPageMetaAsset_AMAZON_CUSTOM_ASSETS_MIGRATION_METAASSETS#desktop.us.118687-T1.114039-C.102038-T1.118886-T1.119605-T1.108941-T1');
-    A.preload('https://images-na.ssl-images-amazon.com/images/I/31vOyNnYYfL._RC|115I705N2vL.js,11RNLL-1MVL.js,51fj5Oo9KxL.js,31BKqItPgUL.js,21-QFBTP--L.js,31tRbGFEWhL.js,01RHiyjONOL.js,01OWDwbYUhL.js,41Ub4UeWJAL.js,11bSWGoT6+L.js,01fTOcPOZgL.js,016DBHJkIYL.js,21FMgkitIDL.js,21WlZ36dzZL.js,01sNt4sDhdL.js,81Y7BD3UuhL.js,61u22MsJWWL.js,41YEXnxcB8L.js,01LHJt5PiyL.js,01Gtn2Z7G1L.js,31C7lSVrNKL.js,21vaUH6OP0L.js,0193uyIciNL.js,41syzhIXAJL.js,11X27kXxOsL.js,01ayMe242LL.js,11ZQs34gE7L.js,611c1+Yy7FL.js,01UujNMpLSL.js,11NHZnHlFmL.js,01mVOVP424L.js,11WXTLsXIfL.js,5100SXOnCaL.js,31CietAOOFL.js,01gaQLz1HjL.js,01X2zigX4kL.js,81jRu0cBEpL.js_.js?AUIClients/USHardlinesDetailPageMetaAssetFixed2_AMAZON_CUSTOM_ASSETS_MIGRATION_METAASSETS#desktop.us.118687-T1.70086-T1.111960-T1.90716-T1.53691-T1.99301-T1.108310-T1');
-    A.preload('https://images-na.ssl-images-amazon.com/images/I/11zFhuTDFqL._RC|11ikU6MX1JL.css,01ekIXTj5kL.css,11oOVW2SqmL.css,21lr10GI3YL.css,01OT3mZ3tNL.css,11xRy3bSkOL.css,01bQbKG2BJL.css,010uqF0UmhL.css,01FlII1u-ZL.css,01KeIGNrFnL.css,01QUs5FVXoL.css,11MXghh1eBL.css,01hvfEvfPgL.css,41A3MwXNi4L.css,31DJFjtqQ7L.css,01GT2VH57dL.css,21lNW82MJSL.css,01rgQ3jqo7L.css,21Ijkd8tJsL.css,31-iBjiv47L.css,11X8K4AolpL.css,21PjfsP9YvL.css,314F2rZxPML.css,014Z+MbaRaL.css,016xTzXJLfL.css,3169f1sLGXL.css,01ZGR4PDSTL.css,218XVPWf2YL.css,01rgQ3jqo7L.css,41hk1RHUZnL.css_.css?AUIClients/USHardlinesDetailPageMetaAssetFixed2_AMAZON_CUSTOM_ASSETS_MIGRATION_METAASSETS#desktop.us.not-trident.118687-T1.118886-T1.108310-T1');
+    A.preload('https://images-na.ssl-images-amazon.com/images/I/31vOyNnYYfL._RC|214q28gHRFL.js,212NwKmSvIL.js,11RNLL-1MVL.js,51fj5Oo9KxL.js,21-QFBTP--L.js,51gaalU7sYL.js,31BKqItPgUL.js,01qibqOZmlL.js,01OWDwbYUhL.js,41Ub4UeWJAL.js,01fTOcPOZgL.js,016DBHJkIYL.js,01sNt4sDhdL.js,81Y7BD3UuhL.js,21Wa8-ICvhL.js,41YEXnxcB8L.js,01LHJt5PiyL.js,01Gtn2Z7G1L.js,31C7lSVrNKL.js,21vaUH6OP0L.js,018M+a7tSFL.js,31Pykj5JhNL.js,01UujNMpLSL.js,11NHZnHlFmL.js,11WXTLsXIfL.js,11+POrInZPL.js,01X2zigX4kL.js,01QIokpOpzL.js,01nGs5dr+NL.js,01VBVf7Xt-L.js,81jRu0cBEpL.js_.js?AUIClients/USSoftlinesDetailPageMetaAsset_AMAZON_CUSTOM_ASSETS_MIGRATION_METAASSETS#desktop.us.118687-T1.121035-T1.70086-T1.109732-C.111960-T1.90716-T1.53691-T1.97137-T1.119605-T1.99301-T1.90283-T1');
+    A.preload('https://images-na.ssl-images-amazon.com/images/I/41i2qjntsOL._RC|41kk+BrwEDL.css,11zFhuTDFqL.css,31uTL6-TJHL.css,21GOrGwAFTL.css,01ekIXTj5kL.css,11oOVW2SqmL.css,01OT3mZ3tNL.css,41SPGpKPIoL.css,21lr10GI3YL.css,01bQbKG2BJL.css,010uqF0UmhL.css,01KeIGNrFnL.css,01hvfEvfPgL.css,11zlxLNA7DL.css,31DJFjtqQ7L.css,01GT2VH57dL.css,21lNW82MJSL.css,01QLwk8mu6L.css,014Z+MbaRaL.css,016xTzXJLfL.css,01ZGR4PDSTL.css,018mGORJ7tL.css,01NW8VTUeVL.css,01rgQ3jqo7L.css,01JOvs9kD8L.css,41hk1RHUZnL.css_.css?AUIClients/USSoftlinesDetailPageMetaAsset_AMAZON_CUSTOM_ASSETS_MIGRATION_METAASSETS#desktop.us.118687-T1.121035-T1.114039-C.102038-T1.118886-T1.119605-T1.110830-T1.90283-T1');
+    A.preload('https://images-na.ssl-images-amazon.com/images/I/31vOyNnYYfL._RC|212NwKmSvIL.js,11RNLL-1MVL.js,01OWDwbYUhL.js,41Ub4UeWJAL.js,51fj5Oo9KxL.js,214q28gHRFL.js,21WlZ36dzZL.js,01sNt4sDhdL.js,011CHrwfLOL.js,81Y7BD3UuhL.js,41YEXnxcB8L.js,01LHJt5PiyL.js,01Gtn2Z7G1L.js,31C7lSVrNKL.js,21vaUH6OP0L.js,11NHZnHlFmL.js,01X2zigX4kL.js,211BXMMEISL.js,31RhPrhvU7L.js,01QIokpOpzL.js,01nGs5dr+NL.js,11bSWGoT6+L.js,31I-BifbuzL.js,31Xvy6018xL.js,11X27kXxOsL.js,11ZQs34gE7L.js,01VBVf7Xt-L.js,81jRu0cBEpL.js_.js?AUIClients/USMediaDetailPageMetaAsset_AMAZON_CUSTOM_ASSETS_MIGRATION_METAASSETS#desktop.us.118687-T1.121035-T1.113832-T1.70086-T1.109732-C.53691-T1.97137-T1.119605-T1.99301-T1');
+    A.preload('https://images-na.ssl-images-amazon.com/images/I/51-LYPhMJeL._RC|11zFhuTDFqL.css,21GOrGwAFTL.css,01ekIXTj5kL.css,01bQbKG2BJL.css,010uqF0UmhL.css,11oOVW2SqmL.css,31uTL6-TJHL.css,11MXghh1eBL.css,01hvfEvfPgL.css,31DJFjtqQ7L.css,01GT2VH57dL.css,21lNW82MJSL.css,016xTzXJLfL.css,01NW8VTUeVL.css,01rgQ3jqo7L.css,21jNhNxHFBL.css,01JOvs9kD8L.css,01FlII1u-ZL.css,21xKLiG6uEL.css,21thLxrpr2L.css,31-iBjiv47L.css,21PjfsP9YvL.css,41hk1RHUZnL.css_.css?AUIClients/USMediaDetailPageMetaAsset_AMAZON_CUSTOM_ASSETS_MIGRATION_METAASSETS#desktop.us.118687-T1.121035-T1.114039-C.102038-T1.118886-T1.119605-T1.108941-T1');
+    A.preload('https://images-na.ssl-images-amazon.com/images/I/31vOyNnYYfL._RC|115I705N2vL.js,11RNLL-1MVL.js,51fj5Oo9KxL.js,31BKqItPgUL.js,21-QFBTP--L.js,31tRbGFEWhL.js,01RHiyjONOL.js,01OWDwbYUhL.js,41Ub4UeWJAL.js,11bSWGoT6+L.js,01fTOcPOZgL.js,016DBHJkIYL.js,21FMgkitIDL.js,21WlZ36dzZL.js,01sNt4sDhdL.js,81Y7BD3UuhL.js,61u22MsJWWL.js,41YEXnxcB8L.js,01LHJt5PiyL.js,01Gtn2Z7G1L.js,31C7lSVrNKL.js,21vaUH6OP0L.js,0193uyIciNL.js,41syzhIXAJL.js,11X27kXxOsL.js,01ayMe242LL.js,11ZQs34gE7L.js,611c1+Yy7FL.js,01UujNMpLSL.js,11NHZnHlFmL.js,01mVOVP424L.js,11WXTLsXIfL.js,5100SXOnCaL.js,31CietAOOFL.js,01gaQLz1HjL.js,01X2zigX4kL.js,81jRu0cBEpL.js_.js?AUIClients/USHardlinesDetailPageMetaAssetFixed2_AMAZON_CUSTOM_ASSETS_MIGRATION_METAASSETS#desktop.us.118687-T1.121035-T1.70086-T1.111960-T1.90716-T1.53691-T1.99301-T1.108310-T1');
+    A.preload('https://images-na.ssl-images-amazon.com/images/I/11zFhuTDFqL._RC|11ikU6MX1JL.css,01ekIXTj5kL.css,11oOVW2SqmL.css,21lr10GI3YL.css,01OT3mZ3tNL.css,11xRy3bSkOL.css,01bQbKG2BJL.css,010uqF0UmhL.css,01FlII1u-ZL.css,01KeIGNrFnL.css,01QUs5FVXoL.css,11MXghh1eBL.css,01hvfEvfPgL.css,41A3MwXNi4L.css,31DJFjtqQ7L.css,01GT2VH57dL.css,21lNW82MJSL.css,01rgQ3jqo7L.css,21Ijkd8tJsL.css,31-iBjiv47L.css,11X8K4AolpL.css,21PjfsP9YvL.css,314F2rZxPML.css,014Z+MbaRaL.css,016xTzXJLfL.css,3169f1sLGXL.css,01ZGR4PDSTL.css,218XVPWf2YL.css,01rgQ3jqo7L.css,41hk1RHUZnL.css_.css?AUIClients/USHardlinesDetailPageMetaAssetFixed2_AMAZON_CUSTOM_ASSETS_MIGRATION_METAASSETS#desktop.us.not-trident.118687-T1.121035-T1.118886-T1.108310-T1');
   }
 });
 
@@ -3366,7 +3364,7 @@ $Nav.when('nav.createFlyout').run('sx:refined-search-deep-pagination-try-aps-pro
                   <script type="application/json">
 //<![CDATA[
 
-        {"rhfHandlerParams":{"rhfAsins":"","noP13NCache":"","weblabTriggers":"","auiDebug":"","rviAsins":"","parentSession":"137-5010733-1602114","rhfState":"","contextMetadataOverride":"","currentSubPageType":"portal-batch-slow-btf","relatedRequestId":"X8BCXF4R6467AW893R3S","recsAsins":"","excludeASIN":"","auditEnabled":"","customerId":"","testRecsFailure":"","previewCampaigns":"","forceWidgets":"","currentPageType":"Search","stringDebug":""},"subPageType":"portal-batch-slow-btf","requestId":"X8BCXF4R6467AW893R3S","sessionId":"137-5010733-1602114","customerId":"","pageType":"Search","ybhHandlerParams":{"relatedRequestId":"X8BCXF4R6467AW893R3S","currentPageType":"Search","parentSession":"137-5010733-1602114"}}
+        {"rhfHandlerParams":{"rhfAsins":"","noP13NCache":"","weblabTriggers":"","auiDebug":"","rviAsins":"","parentSession":"147-5490763-7326650","rhfState":"","contextMetadataOverride":"","currentSubPageType":"portal-batch-slow-btf","relatedRequestId":"R38CX3JFRN5FQMGSX548","recsAsins":"","excludeASIN":"","auditEnabled":"","customerId":"","testRecsFailure":"","previewCampaigns":"","forceWidgets":"","currentPageType":"Search","stringDebug":""},"subPageType":"portal-batch-slow-btf","requestId":"R38CX3JFRN5FQMGSX548","sessionId":"147-5490763-7326650","customerId":"","pageType":"Search","ybhHandlerParams":{"relatedRequestId":"R38CX3JFRN5FQMGSX548","currentPageType":"Search","parentSession":"147-5490763-7326650"}}
     
 //]]>
                   </script>
@@ -3388,7 +3386,7 @@ $Nav.when('nav.createFlyout').run('sx:refined-search-deep-pagination-try-aps-pro
                            › 
                         </div>
                         <div class="ybh-edit-link">
-                          <a href="/gp/yourstore/pym/ref=pd_pyml_rhf/137-5010733-1602114">
+                          <a href="/gp/yourstore/pym/ref=pd_pyml_rhf/147-5490763-7326650">
                             View or edit your browsing history
                           </a>
                         </div>
@@ -3416,7 +3414,7 @@ $Nav.when('nav.createFlyout').run('sx:refined-search-deep-pagination-try-aps-pro
                            › 
                         </div>
                         <div class="ybh-edit-link">
-                          <a href="/gp/yourstore/pym/ref=pd_pyml_rhf/137-5010733-1602114">
+                          <a href="/gp/yourstore/pym/ref=pd_pyml_rhf/147-5490763-7326650">
                             View or edit your browsing history
                           </a>
                         </div>
@@ -4230,11 +4228,11 @@ $Nav.when('nav.createFlyout').run('sx:refined-search-deep-pagination-try-aps-pro
             </ul>
           </div>
         </div>
-        <!-- whfh-8W68E35AZvDms+i4oCTURkTO7gzei3+tgjWJKZ7W1rr83TmBSXYRYT6FWwWSs3jO rid-X8BCXF4R6467AW893R3S -->        <div id="sis_pixel_r2" aria-hidden="true" style="height:1px; position: absolute; left: -1000000px; top: -1000000px;">
+        <!-- whfh-OyPdG8jSFN5NEkibMAt+zroHSMWWl1mGEMkjDK4qQaG1cNCb6fNAYoHUYL+Gvpmkig/euQorYTM= rid-R38CX3JFRN5FQMGSX548 -->        <div id="sis_pixel_r2" aria-hidden="true" style="height:1px; position: absolute; left: -1000000px; top: -1000000px;">
         </div>
         <script>
 //<![CDATA[
-(function(a,b){a.attachEvent?a.attachEvent("onload",b):a.addEventListener&&a.addEventListener("load",b,!1)})(window,function(){setTimeout(function(){var el=document.getElementById("sis_pixel_r2");el&&(el.innerHTML='<iframe id="DAsis" src="//s.amazon-adsystem.com/iu3?d=amazon.com&slot=navFooter&a2=0101a3543972e2fe563d2f6c43db038bbc4c1300b7d0f612ae529cdd5cf4a449dd7d&old_oo=0&cb=1506595106251" width="1" height="1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>')},300)});
+(function(a,b){a.attachEvent?a.attachEvent("onload",b):a.addEventListener&&a.addEventListener("load",b,!1)})(window,function(){setTimeout(function(){var el=document.getElementById("sis_pixel_r2");el&&(el.innerHTML='<iframe id="DAsis" src="//s.amazon-adsystem.com/iu3?d=amazon.com&slot=navFooter&a2=010153ff9f7335d81b9193fc458f3d366e50bb29722ba8bdb4a871047ef0711d5795&old_oo=0&cb=1506596801437" width="1" height="1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>')},300)});
 //]]>
         </script>
         <!-- footer tilu -->        <script>
@@ -4345,7 +4343,7 @@ clearInterval(q);l.detach&&l.detach("mousemove",g,b)},ready:function(){return a.
         </script>
       </div>
       <noscript>
-        <img height="1" width="1" style="display:none;visibility:hidden;" src="//fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:137-5010733-1602114:X8BCXF4R6467AW893R3S$uedata=s:%2Fmn%2Fsearch%2Fuedata%2F137-5010733-1602114%3Fnoscript%26id%3DX8BCXF4R6467AW893R3S:0" alt=""/>
+        <img height="1" width="1" style="display:none;visibility:hidden;" src="//fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:147-5490763-7326650:R38CX3JFRN5FQMGSX548$uedata=s:%2Fmn%2Fsearch%2Fuedata%2F147-5490763-7326650%3Fnoscript%26id%3DR38CX3JFRN5FQMGSX548:0" alt=""/>
       </noscript>
     </div>
   </body>
