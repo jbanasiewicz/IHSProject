@@ -10,7 +10,6 @@ import java.text.DecimalFormat;
 
 public class TableFiller {
     String title;
-    String author;
     String isbn13;
     double price;
     String whereToBuy;
@@ -20,10 +19,9 @@ public class TableFiller {
 
         for (BookData bookData : result.getBookList().getBookData()) {
             title = bookData.title;
-            author = bookData.authorsText;
             isbn13 = bookData.isbn13;
             price = new AmazonSearch().checkPriceOnAmazon(isbn13);
-            model.addRow(new Object[]{title, author, isbn13, price, " "});
+            model.addRow(new Object[]{title, isbn13, price, " "});
         }
     }
 
