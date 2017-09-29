@@ -10,6 +10,7 @@ import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 public class AmazonSearch {
+
     double amazonPrice;
 
     public double checkPriceOnAmazon (String isbn13) {
@@ -82,5 +83,13 @@ public class AmazonSearch {
             System.out.println("Error in finding USDPLN");
             return 0.00;
         }
+    }
+
+    public void setAmazonPrice(double amazonPrice) {
+        this.amazonPrice = amazonPrice;
+    }
+
+    public double getAmazonPrice() {
+        return amazonPrice;
     }
 }

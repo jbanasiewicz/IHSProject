@@ -1,6 +1,5 @@
 package isbnScan;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.http.*;
 import org.springframework.stereotype.Component;
@@ -12,9 +11,6 @@ import java.util.Arrays;
 
 @Component
 public class Scanner {
-
-    @Autowired
-    private RestTemplate restTemplate;
 
     @Bean
     public RestTemplate restTemplate() {
