@@ -49,7 +49,6 @@ public class AmazonSearch {
                             }
                         }
                     }
-
                 }
                 driver.quit();
                 return 0.00;

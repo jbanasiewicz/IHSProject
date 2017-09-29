@@ -2,7 +2,6 @@ package isbnScan;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
-
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 import java.awt.*;
@@ -16,7 +15,6 @@ public class BookSearch {
         builder.headless(false).run(args);
         BookSearch booksearch = new BookSearch();
         booksearch.createUI();
-
     }
     public void createUI() {
         JFrame frame = new JFrame("BookSearch");
@@ -55,7 +53,6 @@ public class BookSearch {
             }
         } );
 
-
         frame.add(labelText, BorderLayout.NORTH);
         frame.add(field, BorderLayout.WEST);
         frame.add(checkForPrices, BorderLayout.EAST);
@@ -66,5 +63,4 @@ public class BookSearch {
         TableFiller tableFiller = new TableFiller();
         tableFiller.fillTableWithResults(message, model);
     }
-
 }
